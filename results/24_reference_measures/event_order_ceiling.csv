@@ -1,0 +1,14 @@
+author,author_class,n,mean_tau,sd_tau,mean_events_present,mean_terminal_missing,mean_n_events
+cather,period,44,0.7049,0.2709,0.8482,0.1364,8.4318
+chesterton,period,39,0.7687,0.2148,0.8621,0.1538,8.4103
+chopin,period,49,0.7130,0.2929,0.8455,0.1633,8.5918
+doctorow,contemporary,42,0.8224,0.2060,0.7812,0.2619,10.2143
+h_private,private,23,0.7272,0.2392,0.8929,0.0435,8.7391
+link,contemporary,15,0.6577,0.3672,0.8928,0.0000,8.8667
+mansfield,period,41,0.7682,0.2408,0.7973,0.2927,8.3171
+patrick_v2,private,43,0.8024,0.2807,0.8147,0.2093,7.8372
+rucker,contemporary,45,0.8015,0.1892,0.8484,0.2222,8.5333
+stross,contemporary,41,0.8295,0.2048,0.8123,0.1707,8.6829
+sui_sin_far,period,24,0.5718,0.3699,0.8278,0.2917,9.1250
+watts,contemporary,44,0.7970,0.2799,0.6705,0.4318,9.9091
+wharton,period,43,0.7375,0.2598,0.8508,0.1163,8.2093

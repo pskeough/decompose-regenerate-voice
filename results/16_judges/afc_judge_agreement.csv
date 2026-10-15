@@ -1,0 +1,7 @@
+family,comparison,n_items_both_judges,agreement,agreement_lo,agreement_hi,cohens_kappa,gemini_rate,minimax_rate,judge_self_repeat_pairs,judge_self_repeat_flips
+all families,vs_A0,11884,0.5342,0.5238,0.5438,0.0650,0.5455,0.5198,1533,230
+all families,vs_source,15126,0.8749,0.8626,0.8882,0.1326,0.0367,0.1160,1533,230
+Qwen3,vs_A0,9348,0.5399,0.5291,0.5500,0.0776,0.5342,0.5172,1533,230
+Qwen3,vs_source,11937,0.8997,0.8906,0.9098,0.1019,0.0204,0.0952,1533,230
+Ministral3,vs_A0,2536,0.5130,0.4931,0.5348,0.0160,0.5871,0.5292,1533,230
+Ministral3,vs_source,3189,0.7821,0.7585,0.8078,0.1418,0.0978,0.1941,1533,230

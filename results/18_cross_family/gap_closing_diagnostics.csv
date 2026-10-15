@@ -1,0 +1,5 @@
+measure,scope,n_points,slope_adapter_on_base,ci_low,ci_high,intercept_adapter_on_base,r2_adapter_on_base,implied_gap_slope_1_minus,sd_ceiling,sd_base,sd_adapter,sd_headroom,corr_headroom_minus_base
+luar_cos_ref,overlay,18,-0.41076,-0.69452,-0.05486,1.18649,0.23511,1.41076,0.02055,0.03569,0.03024,0.04406,0.88804
+wegmann_cos_ref,overlay,18,0.01112,-0.68467,0.71281,0.89158,0.00007,0.98888,0.06119,0.04501,0.05971,0.07583,0.59063
+luar_cos_ref,full_qwen_sweep,39,-1.21357,-1.73296,-0.78938,1.81740,0.38298,2.21357,0.01837,0.02191,0.04297,0.02839,0.76249
+wegmann_cos_ref,full_qwen_sweep,39,0.21856,-0.67191,0.75963,0.66314,0.00750,0.78144,0.06055,0.04930,0.12441,0.04769,0.22082

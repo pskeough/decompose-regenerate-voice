@@ -1,0 +1,5 @@
+measure,n_authors,n_configs,mean_spearman_vs_rest,ci_low,ci_high
+coverage,13,98,0.2496,0.1774,0.3159
+per,13,98,0.3996,0.3328,0.4721
+terminal_missing,13,95,0.4290,0.3248,0.5205
+truncated,13,66,0.1643,0.1110,0.2125

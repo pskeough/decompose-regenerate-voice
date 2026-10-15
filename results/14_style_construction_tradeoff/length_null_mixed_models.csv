@@ -1,0 +1,29 @@
+measure,term,estimate,se,ci_low,ci_high,p,n_obs,n_groups,group_var,boundary_fit,optimizer,fit_note
+voice_axis,Intercept,0.46806,0.05411,0.36200,0.57412,0.00000,7692,13,0.03758,False,lib.mixed_model (lbfgs),converged
+voice_axis,is_adapter,0.14715,0.00817,0.13114,0.16317,0.00000,7692,13,0.03758,False,lib.mixed_model (lbfgs),converged
+voice_axis,words_c,0.00143,0.00415,-0.00671,0.00956,0.73084,7692,13,0.03758,False,lib.mixed_model (lbfgs),converged
+voice_axis,Group Var,0.30428,0.12539,0.05853,0.55003,0.01524,7692,13,0.03758,False,lib.mixed_model (lbfgs),converged
+voice_axis,Intercept,0.46806,0.05411,0.36200,0.57412,0.00000,7692,13,,,statsmodels default,converged
+voice_axis,is_adapter,0.14715,0.00817,0.13114,0.16317,0.00000,7692,13,,,statsmodels default,converged
+voice_axis,words_c,0.00143,0.00415,-0.00671,0.00956,0.73084,7692,13,,,statsmodels default,converged
+voice_axis,Group Var,0.30428,0.12539,0.05853,0.55003,0.01524,7692,13,,,statsmodels default,converged
+voice_axis (no words covariate),Intercept,0.46786,0.05409,0.36185,0.57388,0.00000,7692,13,0.03756,False,lib.mixed_model (lbfgs),converged
+voice_axis (no words covariate),is_adapter,0.14770,0.00801,0.13199,0.16341,0.00000,7692,13,0.03756,False,lib.mixed_model (lbfgs),converged
+voice_axis (no words covariate),Group Var,0.30409,0.12531,0.05850,0.54969,0.01523,7692,13,0.03756,False,lib.mixed_model (lbfgs),converged
+voice_axis (no words covariate),Intercept,0.46786,0.05409,0.36185,0.57388,0.00000,7692,13,,,statsmodels default,converged
+voice_axis (no words covariate),is_adapter,0.14770,0.00801,0.13199,0.16341,0.00000,7692,13,,,statsmodels default,converged
+voice_axis (no words covariate),Group Var,0.30409,0.12531,0.05850,0.54969,0.01523,7692,13,,,statsmodels default,converged
+constr_axis,Intercept,0.76827,0.04457,0.68091,0.85563,0.00000,7692,13,0.02502,False,lib.mixed_model (lbfgs),converged
+constr_axis,is_adapter,-0.20921,0.01060,-0.22998,-0.18844,0.00000,7692,13,0.02502,False,lib.mixed_model (lbfgs),converged
+constr_axis,words_c,-0.09957,0.00538,-0.11012,-0.08901,0.00000,7692,13,0.02502,False,lib.mixed_model (lbfgs),converged
+constr_axis,Group Var,0.12040,0.05052,0.02139,0.21941,0.01715,7692,13,0.02502,False,lib.mixed_model (lbfgs),converged
+constr_axis,Intercept,0.76827,0.04457,0.68091,0.85563,0.00000,7692,13,,,statsmodels default,converged
+constr_axis,is_adapter,-0.20921,0.01060,-0.22998,-0.18844,0.00000,7692,13,,,statsmodels default,converged
+constr_axis,words_c,-0.09957,0.00538,-0.11012,-0.08901,0.00000,7692,13,,,statsmodels default,converged
+constr_axis,Group Var,0.12040,0.05052,0.02139,0.21941,0.01715,7692,13,,,statsmodels default,converged
+constr_axis (no words covariate),Intercept,0.78228,0.04730,0.68957,0.87498,0.00000,7692,13,0.02824,False,lib.mixed_model (lbfgs),converged
+constr_axis (no words covariate),is_adapter,-0.24736,0.01062,-0.26818,-0.22655,0.00000,7692,13,0.02824,False,lib.mixed_model (lbfgs),converged
+constr_axis (no words covariate),Group Var,0.13018,0.05453,0.02331,0.23705,0.01696,7692,13,0.02824,False,lib.mixed_model (lbfgs),converged
+constr_axis (no words covariate),Intercept,0.78228,0.04730,0.68957,0.87498,0.00000,7692,13,,,statsmodels default,converged
+constr_axis (no words covariate),is_adapter,-0.24736,0.01062,-0.26818,-0.22655,0.00000,7692,13,,,statsmodels default,converged
+constr_axis (no words covariate),Group Var,0.13018,0.05453,0.02331,0.23705,0.01696,7692,13,,,statsmodels default,converged

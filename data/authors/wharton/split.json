@@ -1,0 +1,94 @@
+{
+  "author": "wharton",
+  "seed": 20260903,
+  "unit": "work",
+  "works": {
+    "test": [
+      "9190_04",
+      "4514_02",
+      "4519_00",
+      "283_00",
+      "9190_07",
+      "4519_01",
+      "166_00",
+      "9190_06"
+    ],
+    "ref": [
+      "4519_06",
+      "4519_07",
+      "4514_08",
+      "9190_05",
+      "9190_02",
+      "9190_01",
+      "9190_00"
+    ],
+    "train": [
+      "4514_03",
+      "7516_00",
+      "284_00",
+      "541_00",
+      "267_00",
+      "19191_00",
+      "4519_05",
+      "4514_04",
+      "7516_06",
+      "11052_00",
+      "4514_05",
+      "9190_03",
+      "7516_04",
+      "4519_02",
+      "311_00",
+      "7516_07",
+      "4327_00",
+      "7516_05",
+      "4514_00",
+      "4519_03",
+      "7516_01",
+      "4514_07",
+      "4519_04",
+      "7516_03",
+      "4514_06",
+      "4514_01",
+      "4517_00",
+      "7516_02"
+    ]
+  },
+  "counts": {
+    "test": 50,
+    "ref": 44,
+    "train_fit": 169,
+    "train_val": 21,
+    "train_with_prev": 162,
+    "train_with_both": 134,
+    "others": 1201
+  },
+  "words": {
+    "test": 35924,
+    "ref": 31388,
+    "train": 135041
+  },
+  "val_works": [
+    "19191_00",
+    "267_00",
+    "7516_00"
+  ],
+  "test_volume_titles": [
+    "Summer",
+    "Tales of Men and Ghosts: THE DEBT",
+    "The Descent of Man and Other Stories: THE DESCENT OF MAN",
+    "The Descent of Man and Other Stories: THE OTHER TWO",
+    "The Greater Inclination: A COWARD",
+    "The Greater Inclination: A CUP OF COLD WATER",
+    "The Greater Inclination: THE PORTRAIT",
+    "The Reef"
+  ],
+  "ref_volume_titles": [
+    "Tales of Men and Ghosts: THE LETTERS",
+    "The Descent of Man and Other Stories: THE DILETTANTE",
+    "The Descent of Man and Other Stories: THE QUICKSAND",
+    "The Greater Inclination: A JOURNEY",
+    "The Greater Inclination: THE GREATER INCLINATION",
+    "The Greater Inclination: THE PELICAN",
+    "The Greater Inclination: THE TWILIGHT OF THE GOD"
+  ]
+}

@@ -1,0 +1,7 @@
+block,family,n_cells,n_authors,n_model_above_author,mean_gen_minus_author,max_gen_minus_author
+C (construction),Ministral3,9,3,2,-0.6471,1.8881
+C (construction),Qwen3,18,8,1,-1.9462,1.1281
+S (craft),Ministral3,9,3,3,-0.9412,1.7493
+S (craft),Qwen3,18,8,0,-2.7602,0.4313
+all 12 subscores,Ministral3,9,3,3,-0.8187,1.8071
+all 12 subscores,Qwen3,18,8,1,-2.4211,0.7217

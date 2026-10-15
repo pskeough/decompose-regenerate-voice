@@ -1,0 +1,6 @@
+variant,n_contrasts,n_sign_flip,n_floor_flip,n_ci_flip,n_any_flip,n_degenerate,n_underpowered,n_flip_matters,median_rel_change
+gate-failed runs dropped,175,6,8,7,16,0,50,10,0.0499
+private authors dropped,150,14,16,15,33,0,75,5,0.1413
+sample 0 only,175,3,10,4,15,0,25,12,0.0846
+sample 1 only,169,5,9,6,17,0,25,11,0.0917
+truncated cells dropped,175,5,15,11,25,7,25,12,0.1281

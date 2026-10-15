@@ -1,0 +1,5 @@
+predictor,source_words,n_events,dialogue_share,brief_words
+source_words,1.0000,0.2500,0.3750,0.5230
+n_events,0.2500,1.0000,0.2560,0.4220
+dialogue_share,0.3750,0.2560,1.0000,0.2250
+brief_words,0.5230,0.4220,0.2250,1.0000

@@ -1,0 +1,15 @@
+pool_author,n_runs,n_sampled_per_run_median,n_unique_passages_union
+austen,103,86.0,86
+cather,97,100.0,137
+chesterton,89,100.0,317
+chopin,97,100.0,151
+conrad,103,100.0,118
+joyce,103,87.0,87
+lovecraft,103,100.0,116
+mansfield,96,100.0,202
+melville,103,100.0,104
+sui_sin_far,97,91.0,91
+watanna,103,81.0,81
+wells,103,100.0,327
+wharton,96,100.0,266
+woolf,103,56.0,56

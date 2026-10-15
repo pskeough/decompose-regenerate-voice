@@ -1,0 +1,10 @@
+pair,family,n_briefs,V,A_j,A_m,region,inside_unit_box,inside_unit_box_strict,max_abs_unit,n_coverage
+base4b vs base4b_r2,Qwen3,44,-0.2056,,-0.1788,inside_floor_box,True,True,0.2056,0
+chesterton_base4b vs chesterton_base4bc,Qwen3,39,-0.8943,1.0000,-0.1125,inside_floor_box,True,True,1.0000,39
+mansfield_base4b vs mansfield_base4b_r2,Qwen3,41,-0.8284,,-1.0000,inside_floor_box,True,True,1.0000,0
+chesterton_basem3b vs chesterton_basem3b_r2,Ministral3,39,0.4695,0.8816,-1.0000,dominated,True,False,1.0000,39
+patrick_v2_basem3b vs patrick_v2_basem3b_r2,Ministral3,45,-0.0250,0.5448,-0.0753,inside_floor_box,True,True,0.5448,45
+chesterton_base8b vs chesterton_base8b_r2,Qwen3,39,-1.0000,0.0779,-0.8177,inside_floor_box,True,True,1.0000,39
+chesterton_base14b vs chesterton_base14b_r2,Qwen3,39,0.3171,0.1688,-0.9301,inside_floor_box,True,True,0.9301,39
+chesterton_basem8b vs chesterton_basem8b_r2,Ministral3,39,1.0000,-0.5755,-0.8723,inside_floor_box,True,True,1.0000,39
+chesterton_basem14b vs chesterton_basem14b_r2,Ministral3,39,-0.4659,1.0000,-0.9920,inside_floor_box,True,False,1.0000,39

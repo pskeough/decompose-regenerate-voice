@@ -1,0 +1,7 @@
+measure,family,n_pairs,floor,sizes_b
+coverage,Ministral3,4,6.28205,"3B, 8B, 14B"
+coverage,Qwen3,3,1.97436,"4B, 8B, 14B"
+fool_vs_source,Ministral3,4,0.05128,"3B, 8B, 14B"
+fool_vs_source,Qwen3,3,0.03846,"4B, 8B, 14B"
+rubric_C,Ministral3,2,0.21453,3B
+rubric_S,Ministral3,2,0.12515,3B

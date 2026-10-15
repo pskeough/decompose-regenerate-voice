@@ -1,0 +1,7 @@
+run,started,backend,base_model,temperature_requested,top_p,max_new_cap,len_mult,seeds,arms,n_generated,adapter,has_provenance_block,in_master_table
+chesterton_base4b,2026-09-07T13:06:05,llamacpp,Qwen/Qwen3-4B,0.8000,0.9500,1500,2.2000,"[0, 1]","A0,A1,A2,A3,A4,A5",468,none,True,True
+chesterton_paire6_4b,2026-09-06T02:53:22,llamacpp,Qwen/Qwen3-4B,0.8000,0.9500,1500,2.2000,"[0, 1]","A0,A1,A5",234,train_chesterton_pair_e6,False,True
+chesterton_size100,2026-09-06T13:01:37,llamacpp,Qwen/Qwen3-4B,0.8000,0.9500,1500,2.2000,"[0, 1]","A0,A1",156,train_chesterton_pair_n100_e6,False,False
+chesterton_size150,2026-09-06T14:06:30,llamacpp,Qwen/Qwen3-4B,0.8000,0.9500,1500,2.2000,"[0, 1]","A0,A1",156,train_chesterton_pair_n150_e6,False,False
+chesterton_size25,2026-09-06T11:06:12,llamacpp,Qwen/Qwen3-4B,0.8000,0.9500,1500,2.2000,"[0, 1]","A0,A1",156,train_chesterton_pair_n25_e6,False,False
+chesterton_size50,2026-09-06T11:52:21,llamacpp,Qwen/Qwen3-4B,0.8000,0.9500,1500,2.2000,"[0, 1]","A0,A1",156,train_chesterton_pair_n50_e6,False,False

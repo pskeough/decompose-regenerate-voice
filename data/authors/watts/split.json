@@ -1,0 +1,42 @@
+{
+  "author": "watts",
+  "seed": 20260903,
+  "unit": "work",
+  "n_test": 50,
+  "n_ref": 40,
+  "works": {
+    "test": [
+      "3_00"
+    ],
+    "ref": [
+      "1_00"
+    ],
+    "train": [
+      "2_00",
+      "4_00"
+    ]
+  },
+  "counts": {
+    "test": 50,
+    "ref": 125,
+    "train_fit": 125,
+    "train_val": 137,
+    "train_with_prev": 260,
+    "train_with_both": 258,
+    "others": 1301
+  },
+  "words": {
+    "test": 38844,
+    "ref": 97352,
+    "train": 201880
+  },
+  "val_works": [
+    "2_00"
+  ],
+  "test_volume_titles": [
+    "Behemoth"
+  ],
+  "ref_volume_titles": [
+    "Starfish"
+  ]
+}

@@ -1,0 +1,9 @@
+instrument,kind,n_cells,self_rate,top_target,top_target_share,top_non_study_target,top_non_study_share,n_authors_whose_top_is_this
+LUAR,adapter,3938,0.5815,mansfield,0.1282,wells,0.0457,1
+LUAR,base,3938,0.2633,watanna,0.2514,watanna,0.2514,6
+Wegmann,adapter,3938,0.3606,sui_sin_far,0.1480,joyce,0.1402,1
+Wegmann,base,3938,0.1610,sui_sin_far,0.3144,conrad,0.1435,8
+StyleDistance,adapter,3938,0.5030,cather,0.1661,wells,0.0691,4
+StyleDistance,base,3938,0.2004,cather,0.2770,joyce,0.0363,6
+Burrows Delta,adapter,3938,0.4200,chopin,0.2151,joyce,0.1526,7
+Burrows Delta,base,3938,0.1679,chopin,0.4340,joyce,0.1757,11

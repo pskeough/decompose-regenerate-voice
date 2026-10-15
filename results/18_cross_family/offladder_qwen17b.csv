@@ -1,0 +1,16 @@
+author,family,params_b,measure,gain,ci_low,ci_high,n_briefs,floor
+patrick_v2,Qwen3,1.70000,luar_cos_source,-0.02519,-0.04728,-0.00407,45,0.02287
+patrick_v2,Qwen3,1.70000,luar_cos_ref,-0.03712,-0.06135,-0.01314,45,0.02073
+patrick_v2,Qwen3,1.70000,wegmann_cos_source,0.11348,0.05835,0.17800,45,0.04056
+patrick_v2,Qwen3,1.70000,wegmann_cos_ref,0.08845,0.04582,0.13726,45,0.05215
+patrick_v2,Qwen3,1.70000,styledist_cos_source,0.02366,0.01480,0.03230,45,0.01152
+patrick_v2,Qwen3,1.70000,geo_index,0.19785,0.09680,0.30223,45,0.13399
+patrick_v2,Qwen3,1.70000,otd_js,-0.08839,-0.11598,-0.06026,45,0.01442
+patrick_v2,Qwen3,1.70000,hapax_w300,-0.01832,-0.03419,-0.00214,45,0.01831
+patrick_v2,Qwen3,1.70000,per,-0.03187,-0.07188,0.00597,45,0.02843
+patrick_v2,Qwen3,1.70000,per_uncapped,-0.02464,-0.07894,0.02860,45,0.04256
+patrick_v2,Qwen3,1.70000,coverage,-25.91111,-35.69111,-15.37611,45,1.97436
+patrick_v2,Qwen3,1.70000,fool_vs_source,0.05556,-0.02222,0.13333,45,0.03846
+patrick_v2,Qwen3,1.70000,len_ratio,0.21981,0.09932,0.33279,45,0.12193
+patrick_v2,Qwen3,1.70000,truncated,0.15556,0.05556,0.25556,45,0.11111
+patrick_v2,Qwen3,1.70000,words,151.53333,69.95278,230.30528,45,84.95556

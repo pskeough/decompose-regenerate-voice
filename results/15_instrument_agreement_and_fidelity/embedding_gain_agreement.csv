@@ -1,0 +1,4 @@
+a,b,spearman_of_gains,ci_low,ci_high,p,n,q_bh
+luar_cos_ref,wegmann_cos_ref,0.49109,0.21861,0.69611,0.00029,50,0.00029
+luar_cos_ref,styledist_cos_ref,0.69450,0.51909,0.81597,0.00000,50,0.00000
+wegmann_cos_ref,styledist_cos_ref,0.84720,0.70308,0.92529,0.00000,50,0.00000

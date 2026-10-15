@@ -1,0 +1,52 @@
+{
+  "author": "doctorow",
+  "seed": 20260903,
+  "unit": "work",
+  "n_test": 50,
+  "n_ref": 40,
+  "works": {
+    "test": [
+      "106_00",
+      "5_00"
+    ],
+    "ref": [
+      "101_00",
+      "1_00"
+    ],
+    "train": [
+      "3_00",
+      "102_00",
+      "4_00",
+      "6_00",
+      "104_00",
+      "103_00",
+      "105_00",
+      "2_00"
+    ]
+  },
+  "counts": {
+    "test": 50,
+    "ref": 59,
+    "train_fit": 486,
+    "train_val": 136,
+    "train_with_prev": 614,
+    "train_with_both": 606,
+    "others": 1301
+  },
+  "words": {
+    "test": 38482,
+    "ref": 45527,
+    "train": 475108
+  },
+  "val_works": [
+    "4_00"
+  ],
+  "test_volume_titles": [
+    "After the Siege",
+    "Makers"
+  ],
+  "ref_volume_titles": [
+    "Down and Out in the Magic Kingdom",
+    "Printcrime"
+  ]
+}

@@ -1,0 +1,7 @@
+measure,kind,n,n_authors,median_F_vs_shuffled,median_F_vs_strangers
+hapax_w300,adapter,49,13,-5.3625,-2.1495
+hapax_w300,base,49,13,-1.3243,-0.0919
+per,adapter,49,13,-13.4198,-5.6438
+per,base,49,13,-2.3110,-0.2240
+per_uncapped,adapter,49,13,-23.2783,-7.7367
+per_uncapped,base,49,13,-3.7502,-0.1162

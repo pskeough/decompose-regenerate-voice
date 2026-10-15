@@ -1,0 +1,37 @@
+family,subscore,label,PC1,PC2
+both families,C1,referent clarity,-0.7104,-0.6522
+both families,C2,advancement,-0.9322,0.1820
+both families,C3,event/state consistency,-0.7457,-0.5745
+both families,C4,arc completion,-0.8267,-0.1458
+both families,C5,circling,-0.8969,0.1887
+both families,S1,opening move,-0.2505,0.5005
+both families,S2,figure execution,-0.9006,0.1865
+both families,S3,figure restraint,-0.8434,0.2318
+both families,S4,register movement,-0.8234,0.3997
+both families,S5,sentence-level stopping,-0.8994,0.1950
+both families,S6,perspective control,-0.7899,-0.5589
+both families,S7,immersion,-0.9643,0.1260
+Qwen3,C1,referent clarity,-0.6759,-0.6781
+Qwen3,C2,advancement,-0.9183,0.2041
+Qwen3,C3,event/state consistency,-0.7039,-0.6114
+Qwen3,C4,arc completion,-0.8693,-0.1719
+Qwen3,C5,circling,-0.8817,0.2059
+Qwen3,S1,opening move,-0.0180,0.5499
+Qwen3,S2,figure execution,-0.8592,0.2058
+Qwen3,S3,figure restraint,-0.8506,0.2854
+Qwen3,S4,register movement,-0.7386,0.5093
+Qwen3,S5,sentence-level stopping,-0.8731,0.1932
+Qwen3,S6,perspective control,-0.7443,-0.6015
+Qwen3,S7,immersion,-0.9524,0.1495
+Ministral3,C1,referent clarity,0.8007,-0.5645
+Ministral3,C2,advancement,0.9327,0.1959
+Ministral3,C3,event/state consistency,0.8190,-0.5053
+Ministral3,C4,arc completion,0.7494,0.0295
+Ministral3,C5,circling,0.8792,0.2283
+Ministral3,S1,opening move,0.4051,0.2280
+Ministral3,S2,figure execution,0.9151,0.1145
+Ministral3,S3,figure restraint,0.8018,0.2701
+Ministral3,S4,register movement,0.8563,0.2272
+Ministral3,S5,sentence-level stopping,0.8963,0.2333
+Ministral3,S6,perspective control,0.8565,-0.4884
+Ministral3,S7,immersion,0.9683,0.0633

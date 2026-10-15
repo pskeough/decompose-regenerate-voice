@@ -1,0 +1,10 @@
+embedding,group,n_repeat_runs,n_passages_checked,n_rows_differing,max_abs_component_diff
+luar,other,1396,127318,0,0.0000000641
+luar,ref,90,4533,0,0.0000000000
+luar,source,90,4175,0,0.0000000000
+styledist,other,1396,127318,0,0.0000000000
+styledist,ref,90,4533,0,0.0000000000
+styledist,source,90,4175,0,0.0000000000
+wegmann,other,1396,127318,0,0.0000000564
+wegmann,ref,90,4533,0,0.0000000000
+wegmann,source,90,4175,0,0.0000000000

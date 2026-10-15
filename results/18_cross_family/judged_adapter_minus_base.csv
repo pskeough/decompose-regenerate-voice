@@ -1,0 +1,49 @@
+measure,scope,author,family,params_b,rung,rung_name,n_authors,n_briefs,base_mean,adapter_mean,adapter_minus_base,ci_low,ci_high,p_wilcoxon,floor,within_noise,q_bh,fdr_family
+coverage,author,chesterton,Ministral3,3.00000,0,small,1,39,60.61538,69.56410,8.94872,0.56090,17.23333,0.04671,6.28205,False,0.06594,judged_adapter_gain_per_measure
+coverage,author,doctorow,Ministral3,3.00000,0,small,1,42,57.50000,56.90476,-0.59524,-5.81012,4.92917,0.79044,6.28205,True,0.79044,judged_adapter_gain_per_measure
+coverage,author,patrick_v2,Ministral3,3.00000,0,small,1,45,65.15556,62.84444,-2.31111,-10.20056,5.35611,0.67761,6.28205,True,0.73303,judged_adapter_gain_per_measure
+coverage,author,chesterton,Ministral3,8.00000,1,mid,1,39,85.87179,80.28205,-5.58974,-12.07821,-0.20513,0.19351,6.28205,True,0.25802,judged_adapter_gain_per_measure
+coverage,author,doctorow,Ministral3,8.00000,1,mid,1,41,80.04762,70.97561,-9.31707,-14.53659,-4.09695,0.00225,6.28205,False,0.00415,judged_adapter_gain_per_measure
+coverage,author,patrick_v2,Ministral3,8.00000,1,mid,1,45,85.53333,86.57778,1.04444,-3.51167,5.64444,0.48818,6.28205,True,0.55792,judged_adapter_gain_per_measure
+coverage,author,chesterton,Ministral3,14.00000,2,large,1,39,85.69231,82.43590,-3.25641,-11.15577,4.66795,0.30496,6.28205,True,0.38522,judged_adapter_gain_per_measure
+coverage,author,doctorow,Ministral3,14.00000,2,large,1,42,87.57143,76.69048,-10.88095,-15.64583,-5.92857,0.00040,6.28205,False,0.00080,judged_adapter_gain_per_measure
+coverage,author,patrick_v2,Ministral3,14.00000,2,large,1,45,85.64444,86.68889,1.04444,-5.62278,7.68889,0.70248,6.28205,True,0.73303,judged_adapter_gain_per_measure
+coverage,author,chesterton,Qwen3,4.00000,0,small,1,39,83.87179,72.56410,-11.30769,-19.69231,-3.28141,0.01862,1.97436,False,0.02978,judged_adapter_gain_per_measure
+coverage,author,doctorow,Qwen3,4.00000,0,small,1,41,78.35714,61.04878,-17.26829,-24.17134,-10.75549,0.00008,1.97436,False,0.00021,judged_adapter_gain_per_measure
+coverage,author,patrick_v2,Qwen3,4.00000,0,small,1,45,84.17778,63.60000,-20.57778,-26.86722,-14.33333,0.00000,1.97436,False,0.00001,judged_adapter_gain_per_measure
+coverage,author,chesterton,Qwen3,8.00000,1,mid,1,39,89.58974,77.53846,-12.05128,-19.23141,-3.94872,0.00027,1.97436,False,0.00058,judged_adapter_gain_per_measure
+coverage,author,doctorow,Qwen3,8.00000,1,mid,1,39,82.09756,65.20000,-17.20513,-25.02564,-9.35897,0.00015,1.97436,False,0.00036,judged_adapter_gain_per_measure
+coverage,author,patrick_v2,Qwen3,8.00000,1,mid,1,44,89.13333,74.09091,-15.13636,-21.25057,-9.31818,0.00003,1.97436,False,0.00008,judged_adapter_gain_per_measure
+coverage,author,chesterton,Qwen3,14.00000,2,large,1,39,93.58974,77.69231,-15.89744,-21.12885,-10.58910,0.00001,1.97436,False,0.00003,judged_adapter_gain_per_measure
+coverage,author,doctorow,Qwen3,14.00000,2,large,1,42,91.33333,73.66667,-17.66667,-22.07202,-13.26131,0.00000,1.97436,False,0.00001,judged_adapter_gain_per_measure
+coverage,author,patrick_v2,Qwen3,14.00000,2,large,1,45,93.15556,76.48889,-16.66667,-23.31111,-10.13333,0.00001,1.97436,False,0.00003,judged_adapter_gain_per_measure
+coverage,pooled over 3 shared authors,chesterton+doctorow+patrick_v2,Ministral3,3.00000,0,small,3,126,61.19841,62.94444,1.74603,-2.54067,6.00060,0.33350,6.28205,True,0.40020,judged_adapter_gain_per_measure
+coverage,pooled over 3 shared authors,chesterton+doctorow+patrick_v2,Ministral3,8.00000,1,mid,3,125,83.92000,79.49600,-4.42400,-7.48820,-1.25580,0.02225,6.28205,True,0.03337,judged_adapter_gain_per_measure
+coverage,pooled over 3 shared authors,chesterton+doctorow+patrick_v2,Ministral3,14.00000,2,large,3,126,86.30159,82.03968,-4.26190,-8.23849,-0.42044,0.01514,6.28205,True,0.02596,judged_adapter_gain_per_measure
+coverage,pooled over 3 shared authors,chesterton+doctorow+patrick_v2,Qwen3,4.00000,0,small,3,125,82.16000,65.56000,-16.60000,-20.67260,-12.33540,0.00000,1.97436,False,0.00000,judged_adapter_gain_per_measure
+coverage,pooled over 3 shared authors,chesterton+doctorow+patrick_v2,Qwen3,8.00000,1,mid,3,122,87.04098,72.22951,-14.81148,-18.86967,-10.60615,0.00000,1.97436,False,0.00000,judged_adapter_gain_per_measure
+coverage,pooled over 3 shared authors,chesterton+doctorow+patrick_v2,Qwen3,14.00000,2,large,3,126,92.68254,75.92063,-16.76190,-20.00040,-13.52321,0.00000,1.97436,False,0.00000,judged_adapter_gain_per_measure
+fool_vs_source,author,chesterton,Ministral3,3.00000,0,small,1,39,0.01282,0.05128,0.03846,-0.01282,0.09006,0.17971,0.05128,True,0.28754,judged_adapter_gain_per_measure
+fool_vs_source,author,doctorow,Ministral3,3.00000,0,small,1,42,0.02381,0.09524,0.07143,0.02381,0.13095,0.01431,0.05128,False,0.06540,judged_adapter_gain_per_measure
+fool_vs_source,author,patrick_v2,Ministral3,3.00000,0,small,1,45,0.18889,0.14444,-0.04444,-0.13333,0.04444,0.31731,0.05128,True,0.42308,judged_adapter_gain_per_measure
+fool_vs_source,author,chesterton,Ministral3,8.00000,1,mid,1,39,0.05128,0.15385,0.10256,0.02564,0.17949,0.01141,0.05128,False,0.06540,judged_adapter_gain_per_measure
+fool_vs_source,author,doctorow,Ministral3,8.00000,1,mid,1,42,0.09524,0.07143,-0.02381,-0.11905,0.07143,0.61429,0.05128,True,0.61429,judged_adapter_gain_per_measure
+fool_vs_source,author,patrick_v2,Ministral3,8.00000,1,mid,1,45,0.19259,0.14815,-0.04444,-0.13333,0.02963,0.38399,0.05128,True,0.46079,judged_adapter_gain_per_measure
+fool_vs_source,author,chesterton,Ministral3,14.00000,2,large,1,39,0.02564,0.17949,0.15385,0.08974,0.23077,0.00053,0.05128,False,0.01277,judged_adapter_gain_per_measure
+fool_vs_source,author,doctorow,Ministral3,14.00000,2,large,1,42,0.08333,0.17857,0.09524,0.00000,0.17857,0.04550,0.05128,False,0.09927,judged_adapter_gain_per_measure
+fool_vs_source,author,patrick_v2,Ministral3,14.00000,2,large,1,45,0.21111,0.12222,-0.08889,-0.16667,-0.01111,0.03251,0.05128,False,0.08135,judged_adapter_gain_per_measure
+fool_vs_source,author,chesterton,Qwen3,4.00000,0,small,1,39,0.01282,0.08974,0.07692,0.01282,0.14103,0.03389,0.03846,False,0.08135,judged_adapter_gain_per_measure
+fool_vs_source,author,doctorow,Qwen3,4.00000,0,small,1,42,0.00000,0.05952,0.05952,0.01190,0.10714,0.02535,0.03846,False,0.07604,judged_adapter_gain_per_measure
+fool_vs_source,author,patrick_v2,Qwen3,4.00000,0,small,1,45,0.10000,0.12222,0.02222,-0.04444,0.10000,0.52709,0.03846,True,0.55001,judged_adapter_gain_per_measure
+fool_vs_source,author,chesterton,Qwen3,8.00000,1,mid,1,39,0.02564,0.08974,0.06410,-0.01282,0.14103,0.09558,0.03846,False,0.16385,judged_adapter_gain_per_measure
+fool_vs_source,author,doctorow,Qwen3,8.00000,1,mid,1,42,0.01190,0.07143,0.05952,0.01190,0.13095,0.05878,0.03846,False,0.11756,judged_adapter_gain_per_measure
+fool_vs_source,author,patrick_v2,Qwen3,8.00000,1,mid,1,45,0.12222,0.16667,0.04444,-0.03333,0.12222,0.24821,0.03846,False,0.35042,judged_adapter_gain_per_measure
+fool_vs_source,author,chesterton,Qwen3,14.00000,2,large,1,39,0.03846,0.12821,0.08974,0.02564,0.15385,0.01963,0.03846,False,0.06731,judged_adapter_gain_per_measure
+fool_vs_source,author,doctorow,Qwen3,14.00000,2,large,1,42,0.04762,0.09524,0.04762,-0.02381,0.11905,0.20590,0.03846,False,0.30885,judged_adapter_gain_per_measure
+fool_vs_source,author,patrick_v2,Qwen3,14.00000,2,large,1,45,0.14444,0.17778,0.03333,-0.04444,0.11111,0.43858,0.03846,True,0.50123,judged_adapter_gain_per_measure
+fool_vs_source,pooled over 3 shared authors,chesterton+doctorow+patrick_v2,Ministral3,3.00000,0,small,3,126,0.07937,0.09921,0.01984,-0.01984,0.05952,0.33592,0.05128,True,0.42432,judged_adapter_gain_per_measure
+fool_vs_source,pooled over 3 shared authors,chesterton+doctorow+patrick_v2,Ministral3,8.00000,1,mid,3,126,0.11640,0.12434,0.00794,-0.04365,0.05691,0.46208,0.05128,True,0.50409,judged_adapter_gain_per_measure
+fool_vs_source,pooled over 3 shared authors,chesterton+doctorow+patrick_v2,Ministral3,14.00000,2,large,3,126,0.11111,0.15873,0.04762,0.00000,0.09524,0.06408,0.05128,True,0.11830,judged_adapter_gain_per_measure
+fool_vs_source,pooled over 3 shared authors,chesterton+doctorow+patrick_v2,Qwen3,4.00000,0,small,3,126,0.03968,0.09127,0.05159,0.01587,0.09127,0.00671,0.03846,False,0.06521,judged_adapter_gain_per_measure
+fool_vs_source,pooled over 3 shared authors,chesterton+doctorow+patrick_v2,Qwen3,8.00000,1,mid,3,126,0.05556,0.11111,0.05556,0.01984,0.09524,0.00815,0.03846,False,0.06521,judged_adapter_gain_per_measure
+fool_vs_source,pooled over 3 shared authors,chesterton+doctorow+patrick_v2,Qwen3,14.00000,2,large,3,126,0.07937,0.13492,0.05556,0.01190,0.09921,0.01635,0.03846,False,0.06540,judged_adapter_gain_per_measure

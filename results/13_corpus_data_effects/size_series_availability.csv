@@ -1,0 +1,6 @@
+question,answer,detail
+generation runs in data/master/runs.csv whose name contains n25/n50/n100/n150,0,none
+generation run folders on disk under data/runs/,4,"chesterton_size100, chesterton_size150, chesterton_size25, chesterton_size50"
+training run folders on disk under data/runs/,4,"train_chesterton_pair_n100_e6, train_chesterton_pair_n150_e6, train_chesterton_pair_n25_e6, train_chesterton_pair_n50_e6"
+size-series generation runs on disk for any author (analysed in script 25),16,"chesterton_size100, chesterton_size150, chesterton_size25, chesterton_size50, doctorow_size100, doctorow_size150, doctorow_size215, doctorow_size25, doctorow_size300, doctorow_size50, doctorow_size50_s1, doctorow_size525, patrick_v2_size25, patrick_v2_size50, patrick_v2_size50_s1, patrick_v2_size75"
+authors with a within-author size series on disk,3,"chesterton, doctorow, patrick_v2"

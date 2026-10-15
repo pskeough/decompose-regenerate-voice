@@ -1,0 +1,13 @@
+measure,pair_kind,n_authors,n_pairs,mean_spearman,ci_low,ci_high,median_pair_spearman
+coverage,adapter-adapter,13,81,0.1510,0.0987,0.2088,0.1373
+coverage,base-adapter,14,212,0.1153,0.0536,0.1699,0.1412
+coverage,base-base,13,81,0.2220,0.1619,0.2801,0.2467
+per,adapter-adapter,13,81,0.2530,0.1691,0.3409,0.2448
+per,base-adapter,14,212,0.2158,0.1565,0.2832,0.1874
+per,base-base,13,81,0.3585,0.2758,0.4482,0.2729
+terminal_missing,adapter-adapter,13,81,0.3587,0.2881,0.4260,0.4420
+terminal_missing,base-adapter,14,203,0.2858,0.1769,0.3827,0.3902
+terminal_missing,base-base,12,76,0.4182,0.3478,0.4892,0.4775
+truncated,adapter-adapter,13,70,0.0840,0.0322,0.1325,0.1133
+truncated,base-adapter,9,90,0.1245,0.0415,0.2223,-0.0227
+truncated,base-base,3,24,0.0989,0.0777,0.1150,-0.0090

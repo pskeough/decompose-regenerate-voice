@@ -1,0 +1,51 @@
+measure,label,construct,n,spearman_with_words,ci_low,ci_high,spearman_within_run,spearman_base,spearman_adapter,p,q_bh,length_flag,max_abs_rho,length_flag_any
+cr_pos,Clause-rhythm position (order-sensitive),voice_structure,7875,0.7114,0.6674,0.7524,0.6719,0.6393,0.7759,0.0000,0.0000,True,0.7759,True
+open_distinct,Distinct sentence openers / sentences,voice_structure,7876,-0.3099,-0.3856,-0.2335,-0.4115,-0.1502,-0.5121,0.0000,0.0000,False,0.5121,True
+rubric_C,Rubric construction block mean (C1-C5),construction,2202,-0.3178,-0.4207,-0.2004,-0.4088,-0.1144,-0.5026,0.0000,0.0000,False,0.5026,True
+distinct_3,Distinct trigram ratio,construction,7876,-0.3757,-0.4472,-0.2995,-0.4278,-0.1896,-0.4892,0.0000,0.0000,False,0.4892,True
+max_repeat,Longest repeated span,construction,7876,0.3941,0.3309,0.4570,0.3878,0.2352,0.4796,0.0000,0.0000,False,0.4796,True
+open2_distinct,Distinct two-word openers / sentences,voice_structure,7875,-0.3210,-0.3852,-0.2499,-0.3928,-0.1601,-0.4527,0.0000,0.0000,False,0.4527,True
+per_uncapped,"Proposition-echo rate, uncapped",construction,7876,0.3779,0.3179,0.4346,0.3204,0.2247,0.4503,0.0000,0.0000,False,0.4503,True
+rep_4,Repeated 4-gram rate,construction,7876,0.3472,0.2741,0.4150,0.3656,0.1683,0.4471,0.0000,0.0000,False,0.4471,True
+rubric_S,Rubric craft block mean (S1-S7),judge,2202,-0.2566,-0.3658,-0.1415,-0.3839,-0.0126,-0.4326,0.0000,0.0000,False,0.4326,True
+sent_echo,Sentence echo: near-duplicate sentence share,construction,7876,0.3289,0.2698,0.3879,0.2620,0.1549,0.3981,0.0000,0.0000,False,0.3981,False
+coverage,Brief coverage judged (share of brief items present),adherence,4057,-0.3562,-0.4100,-0.2943,-0.2597,-0.2459,-0.3889,0.0000,0.0000,False,0.3889,False
+open_entropy,Entropy of sentence-opener distribution,voice_structure,7873,-0.1740,-0.2508,-0.0920,-0.2610,-0.0277,-0.3678,0.0000,0.0000,False,0.3678,False
+geo_index,"Sealed geometry index: position on the author-versus-AI feature axis (authors' own passages about 0.92, other authors 0.83, bare 4B generations 0.14)",voice_structure,7876,-0.3115,-0.3763,-0.2497,-0.3410,-0.2785,-0.3535,0.0000,0.0000,False,0.3535,False
+delta_own,Burrows Delta to the author's own profile,voice_structure,7876,-0.3004,-0.3887,-0.2066,-0.2094,-0.3363,-0.2315,0.0000,0.0000,False,0.3363,False
+mattr,Moving-average type-token ratio (window 50),voice_structure,7876,-0.2108,-0.3029,-0.1223,-0.2810,0.0150,-0.3014,0.0000,0.0000,False,0.3014,False
+mtld,Measure of textual lexical diversity,voice_structure,7874,-0.2068,-0.3000,-0.1150,-0.2427,0.0168,-0.2977,0.0000,0.0000,False,0.2977,False
+per,Proposition-echo rate (600-word cap): share of sentence pairs restating each other,construction,7876,0.2033,0.1525,0.2511,0.1021,0.0663,0.2334,0.0000,0.0000,False,0.2334,False
+sent_len_cv,Coefficient of variation of sentence length,voice_structure,7876,0.2138,0.1482,0.2690,0.0935,0.2203,0.1384,0.0000,0.0000,False,0.2203,False
+short_run_max,Longest run of consecutive short sentences,voice_structure,7876,0.2191,0.1650,0.2788,0.1289,0.1966,0.2006,0.0000,0.0000,False,0.2191,False
+staccato_anaphora,Anaphoric short-sentence runs,tell,7876,0.1610,0.1105,0.2060,0.0910,0.0933,0.1957,0.0000,0.0000,False,0.1957,False
+shown_dist,Distance of the passage from the shown style numbers,adherence,7876,0.0099,-0.0770,0.0903,0.0245,-0.0619,0.1821,0.3810,0.3888,False,0.1821,False
+commas_per_sent,Commas per sentence,voice_structure,7876,-0.1817,-0.2236,-0.1349,-0.0523,-0.1223,-0.1382,0.0000,0.0000,False,0.1817,False
+arti_w,"Constructional tell index, winsorised (AI-typical constructions per 1k words, z vs the author)",tell,7876,0.1563,0.1174,0.2053,0.1324,0.0920,0.1812,0.0000,0.0000,False,0.1812,False
+cv_diff,Paragraph CV difference from the source,voice_structure,7876,0.1811,0.1299,0.2360,0.1381,0.1371,0.1140,0.0000,0.0000,False,0.1811,False
+delta_rank,Burrows Delta rank of the author among references,attribution,7876,-0.1688,-0.2191,-0.1141,-0.0141,-0.0954,-0.1332,0.0000,0.0000,False,0.1688,False
+tau,Kendall tau-a of brief event order in the passage,adherence,7760,-0.1565,-0.1871,-0.1279,-0.1277,-0.1590,-0.1625,0.0000,0.0000,False,0.1625,False
+rfpd_w,"Rhetorical-figure profile distance, winsorised",voice_structure,7876,0.1094,0.0597,0.1612,0.0719,0.0576,0.1577,0.0000,0.0000,False,0.1577,False
+events_present,Share of brief events found,adherence,7760,-0.1533,-0.2052,-0.1015,-0.0567,-0.1325,-0.1487,0.0000,0.0000,False,0.1533,False
+otd_js,Opener-class distance (sqrt JSD of fronting-class distribution vs the author's reference),voice_structure,7876,-0.1228,-0.1907,-0.0493,-0.0697,-0.1436,-0.0708,0.0000,0.0000,False,0.1436,False
+luar_cos_ai,LUAR cosine to generic AI prose,voice_embed,7876,-0.0635,-0.1405,0.0129,-0.0090,0.1431,-0.0184,0.0000,0.0000,False,0.1431,False
+pct_short8,Share of sentences of eight words or fewer,voice_structure,7876,0.1275,0.0707,0.1832,0.0162,0.1290,0.0828,0.0000,0.0000,False,0.1290,False
+hapax_w300,Hapax share in 300-token windows,voice_structure,7856,-0.1250,-0.1983,-0.0466,-0.0837,0.0809,-0.1201,0.0000,0.0000,False,0.1250,False
+luar_cos_source,LUAR cosine to the source passage,voice_embed,7876,0.1228,0.0710,0.1647,0.0064,0.0896,0.0354,0.0000,0.0000,False,0.1228,False
+styledist_cos_ref,StyleDistance cosine to the reference set,voice_embed,7876,0.1176,0.0688,0.1771,0.0226,0.0844,0.0161,0.0000,0.0000,False,0.1176,False
+em_dashes_per_100w,Em dashes per 100 words,voice_structure,7876,0.0295,-0.0496,0.1090,-0.0046,0.1150,0.1057,0.0090,0.0097,False,0.1150,False
+wegmann_cos_ai,Wegmann cosine to generic AI prose,voice_embed,7876,-0.0355,-0.1096,0.0310,-0.0151,0.1109,-0.0380,0.0016,0.0019,False,0.1109,False
+styledist_cos_source,StyleDistance cosine to the source,voice_embed,7876,0.1066,0.0674,0.1608,0.0242,0.1061,0.0034,0.0000,0.0000,False,0.1066,False
+wegmann_cos_ref,Wegmann cosine to the author's reference set,voice_embed,7876,0.0437,-0.0213,0.1136,-0.0098,0.1047,-0.0740,0.0001,0.0001,False,0.1047,False
+luar_cos_ref,LUAR cosine to the author's reference set,voice_embed,7876,0.1023,0.0558,0.1348,0.0052,0.0602,0.0391,0.0000,0.0000,False,0.1023,False
+styledist_cos_ai,StyleDistance cosine to generic AI prose,voice_embed,7876,-0.0558,-0.1259,0.0056,0.0053,0.1013,0.0078,0.0000,0.0000,False,0.1013,False
+open_top_share,Share of sentences starting with the most common opener,voice_structure,7876,-0.0204,-0.0916,0.0505,0.0315,-0.1007,0.0916,0.0705,0.0750,False,0.1007,False
+wegmann_cos_source,Wegmann style-embedding cosine to the source,voice_embed,7876,0.0442,-0.0178,0.0998,0.0002,0.0992,-0.0542,0.0001,0.0001,False,0.0992,False
+burst_an_diff,Corrected burstiness A_n difference from the source,voice_structure,7876,0.0845,0.0317,0.1322,0.0551,0.0961,0.0107,0.0000,0.0000,False,0.0961,False
+template_rate,Rate of templated constructions,tell,7876,-0.0437,-0.1025,0.0119,0.0319,-0.0829,-0.0046,0.0001,0.0001,False,0.0829,False
+w1_logpara,Wasserstein-1 of log paragraph lengths vs the source,voice_structure,7876,-0.0607,-0.1077,-0.0179,-0.0341,-0.0770,0.0209,0.0000,0.0000,False,0.0770,False
+sent_len_mean,Mean sentence length (words),voice_structure,7876,-0.0554,-0.1106,-0.0028,0.0161,-0.0615,-0.0241,0.0000,0.0000,False,0.0615,False
+memo_lcs,Longest common substring with training text,tell,7876,0.0477,0.0014,0.0917,0.0587,0.0295,0.0471,0.0000,0.0000,False,0.0587,False
+fool_vs_source,2AFC: judge picked the generation over the author's own passage,judge,4067,-0.0162,-0.0652,0.0411,0.0143,0.0035,-0.0534,0.3017,0.3143,False,0.0534,False
+cpd_z,Cadence z-score vs the author,voice_structure,7876,-0.0342,-0.0919,0.0279,-0.0313,-0.0180,0.0063,0.0024,0.0026,False,0.0342,False
+memo_8gram,8-gram overlap with the author's training text,tell,7876,0.0088,-0.0120,0.0275,0.0020,0.0280,-0.0032,0.4341,0.4341,False,0.0280,False

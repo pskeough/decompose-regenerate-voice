@@ -1,0 +1,89 @@
+{
+  "author": "chopin",
+  "seed": 20260903,
+  "unit": "work",
+  "works": {
+    "test": [
+      "46650_01",
+      "63025_04",
+      "160_05",
+      "46650_12",
+      "63025_01",
+      "63025_09",
+      "63025_08",
+      "160_02",
+      "63025_03",
+      "63025_00",
+      "160_01",
+      "63025_07"
+    ],
+    "ref": [
+      "46650_11",
+      "46650_15",
+      "46650_05",
+      "160_00",
+      "46650_06",
+      "63025_10",
+      "23810_00",
+      "160_03",
+      "46650_14"
+    ],
+    "train": [
+      "46650_09",
+      "160_04",
+      "46650_03",
+      "46650_07",
+      "63025_05",
+      "46650_04",
+      "46650_08",
+      "46650_00",
+      "63025_02",
+      "46650_13",
+      "46650_02",
+      "46650_10",
+      "63025_06"
+    ]
+  },
+  "counts": {
+    "test": 50,
+    "ref": 40,
+    "train_fit": 53,
+    "train_val": 4,
+    "train_with_prev": 44,
+    "train_with_both": 33,
+    "others": 1201
+  },
+  "words": {
+    "test": 36700,
+    "ref": 29282,
+    "train": 39821
+  },
+  "val_works": [
+    "63025_02"
+  ],
+  "test_volume_titles": [
+    "A Night in Acadie: A Matter of Prejudice",
+    "A Night in Acadie: A Night in Acadie",
+    "A Night in Acadie: A Respectable Woman",
+    "A Night in Acadie: A Sentimental Soul",
+    "A Night in Acadie: After the Winter",
+    "A Night in Acadie: Odalie Misses Mass",
+    "A Night in Acadie: Regret",
+    "Bayou Folk: A VISIT TO AVOYELLES.",
+    "Bayou Folk: IN AND OUT OF OLD NATCHITOCHES.",
+    "The Awakening, and Selected Short Stories: A RESPECTABLE WOMAN",
+    "The Awakening, and Selected Short Stories: BEYOND THE BAYOU",
+    "The Awakening, and Selected Short Stories: THE LOCKET"
+  ],
+  "ref_volume_titles": [
+    "A Night in Acadie: Ripe Figs",
+    "At Fault",
+    "Bayou Folk: A GENTLEMAN OF BAYOU TÊCHE.",
+    "Bayou Folk: A RUDE AWAKENING.",
+    "Bayou Folk: FOR MARSE CHOUCHOUTE",
+    "Bayou Folk: LA BELLE ZORAÏDE.",
+    "Bayou Folk: THE RETURN OF ALCIBIADE.",
+    "The Awakening, and Selected Short Stories: THE AWAKENING",
+    "The Awakening, and Selected Short Stories: THE KISS"
+  ]
+}

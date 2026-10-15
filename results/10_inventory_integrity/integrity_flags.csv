@@ -1,0 +1,14 @@
+check,pass,detail
+cells row count matches the builder's schema.json,True,40726 rows x 176 cols on disk; schema.json records 40726 x 176
+A0 non-replicate cell count matches the builder's schema.json,True,7876 A0 non-replicate cells on disk; schema.json records 7876
+every run in runs.csv has cells,True,missing from cells.parquet: none
+every cell run is described in runs.csv,True,missing from runs.csv: none
+"no duplicate (run, arm, id, sample) keys",True,0 duplicates
+every configuration reaches its expected cell count,True,0 of 460 configuration x arm rows short of briefs x 2
+replicate floors available for every family,True,families without a replicate pair in cells.parquet: none
+outcome measures vary across arms,True,"0 outcome columns identical to their A0 value on every other arm (0 of them dictionary variables, 0 rubric, 0 constructional z_*): "
+runs.csv truncated_pct agrees with the cells,True,0 runs disagree by more than 0.6 points
+brief counts per author match authors.csv,True,all match
+every run over the 20% truncation gate has a gate verdict,False,"7 runs exceed 20% truncation with no verdict recorded: sui_sin_far_paire6_14b (72%), h_private_paire6_14b (59%), h_private_paire6_8b (34%), chopin_paire6_14b (31%), sui_sin_far_paire6_4b (24%), cather_pair4b (22%)"
+runs.csv carries a provenance hash for every run,False,92 of 110 runs have a provenance_hash; file-level SHA-256 is in data/MANIFEST.json instead
+every run records its sampling temperature,False,6 runs have no temperature recorded; the rest are 0.8

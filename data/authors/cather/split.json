@@ -1,0 +1,68 @@
+{
+  "author": "cather",
+  "seed": 20260903,
+  "unit": "work",
+  "works": {
+    "test": [
+      "346_03",
+      "69730_00",
+      "13555_00",
+      "346_06",
+      "24_00",
+      "346_05",
+      "346_04",
+      "13555_01"
+    ],
+    "ref": [
+      "346_02",
+      "78501_00",
+      "13555_02",
+      "94_00",
+      "65636_00",
+      "13555_03"
+    ],
+    "train": [
+      "242_00",
+      "65465_00",
+      "346_00",
+      "2369_00",
+      "346_01",
+      "44_00"
+    ]
+  },
+  "counts": {
+    "test": 50,
+    "ref": 42,
+    "train_fit": 32,
+    "train_val": 7,
+    "train_with_prev": 33,
+    "train_with_both": 27,
+    "others": 1201
+  },
+  "words": {
+    "test": 35041,
+    "ref": 29536,
+    "train": 28170
+  },
+  "val_works": [
+    "65465_00"
+  ],
+  "test_volume_titles": [
+    "Death Comes for the Archbishop",
+    "O Pioneers!",
+    "The Troll Garden, and Selected Stories: A Wagner Matinee",
+    "The Troll Garden, and Selected Stories: Flavia and Her Artists",
+    "The Troll Garden, and Selected Stories: The Garden Lodge",
+    "The Troll Garden, and Selected Stories: The Marriage of Phaedra",
+    "Youth and the Bright Medusa: A WAGNER MATINÉE",
+    "Youth and the Bright Medusa: The Diamond Mine"
+  ],
+  "ref_volume_titles": [
+    "A Lost Lady",
+    "Alexanders Bridge",
+    "My Mortal Enemy",
+    "The Troll Garden, and Selected Stories: The Bohemian Girl",
+    "Youth and the Bright Medusa: A Gold Slipper",
+    "Youth and the Bright Medusa: Scandal"
+  ]
+}

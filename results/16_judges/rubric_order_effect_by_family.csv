@@ -1,0 +1,7 @@
+family,judge,n_tests,n_q_below_05,max_abs_rev_minus_fwd,mean_abs_shift
+Ministral3,gemini,12,10,1.7680,1.1106
+Ministral3,minimax,12,11,1.4231,1.0316
+Qwen3,gemini,12,11,1.6025,1.0863
+Qwen3,minimax,12,11,1.1074,0.8978
+both families,gemini,12,11,1.5133,1.0517
+both families,minimax,12,11,1.1052,0.9110

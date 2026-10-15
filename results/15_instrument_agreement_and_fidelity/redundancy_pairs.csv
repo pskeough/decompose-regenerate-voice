@@ -1,0 +1,15 @@
+a,b,rho,abs_rho,construct_a,construct_b
+mattr,mtld,0.9801,0.9801,voice_structure,voice_structure
+distinct_3,rep_4,-0.9607,0.9607,construction,construction
+arti_w,rfpd_w,0.9299,0.9299,tell,voice_structure
+open_entropy,open_distinct,0.9299,0.9299,voice_structure,voice_structure
+rep_4,max_repeat,0.9186,0.9186,construction,construction
+pct_short8,sent_len_mean,-0.9140,0.9140,voice_structure,voice_structure
+words,len_ratio,0.9049,0.9049,length,length
+pct_short8,short_run_max,0.8935,0.8935,voice_structure,voice_structure
+per,per_uncapped,0.8818,0.8818,construction,construction
+rubric_C,rubric_S,0.8759,0.8759,construction,judge
+distinct_3,max_repeat,-0.8561,0.8561,construction,construction
+open_entropy,open_top_share,-0.8403,0.8403,voice_structure,voice_structure
+sent_len_mean,short_run_max,-0.8394,0.8394,voice_structure,voice_structure
+mtld,distinct_3,0.8038,0.8038,voice_structure,construction

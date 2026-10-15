@@ -1,0 +1,86 @@
+{
+  "author": "sui_sin_far",
+  "seed": 20260903,
+  "unit": "work",
+  "n_test": 30,
+  "n_ref": 25,
+  "works": {
+    "test": [
+      "62940_17",
+      "62940_09",
+      "62940_12",
+      "62940_22",
+      "62940_05",
+      "62940_27",
+      "62940_02",
+      "62940_30",
+      "62940_01",
+      "62940_24"
+    ],
+    "ref": [
+      "62940_13",
+      "62940_28",
+      "62940_00",
+      "62940_18",
+      "62940_21",
+      "62940_23",
+      "62940_06",
+      "62940_03"
+    ],
+    "train": [
+      "62940_19",
+      "62940_16",
+      "62940_31",
+      "62940_10",
+      "62940_14",
+      "62940_26",
+      "62940_11",
+      "62940_15",
+      "62940_07",
+      "62940_25",
+      "62940_20",
+      "62940_04",
+      "62940_08",
+      "62940_29"
+    ]
+  },
+  "counts": {
+    "test": 30,
+    "ref": 27,
+    "train_fit": 31,
+    "train_val": 1,
+    "train_with_prev": 18,
+    "train_with_both": 10,
+    "others": 1210
+  },
+  "words": {
+    "test": 22092,
+    "ref": 18684,
+    "train": 22438
+  },
+  "val_works": [
+    "62940_25"
+  ],
+  "test_volume_titles": [
+    "Mrs. Spring Fragrance: CHILDREN OF PEACE",
+    "Mrs. Spring Fragrance: HER CHINESE HUSBAND",
+    "Mrs. Spring Fragrance: MISUNDERSTOOD",
+    "Mrs. Spring Fragrance: PAT AND PAN",
+    "Mrs. Spring Fragrance: THE CANDY THAT IS NOT SWEET",
+    "Mrs. Spring Fragrance: THE DREAMS THAT FAILED",
+    "Mrs. Spring Fragrance: THE INFERIOR WOMAN",
+    "Mrs. Spring Fragrance: THE PRIZE CHINA BABY",
+    "Mrs. Spring Fragrance: THE SMUGGLING OF TIE CO",
+    "Mrs. Spring Fragrance: THE WISDOM OF THE NEW"
+  ],
+  "ref_volume_titles": [
+    "Mrs. Spring Fragrance: LIN JOHN",
+    "Mrs. Spring Fragrance: THE AMERICANIZING OF PAU TSU",
+    "Mrs. Spring Fragrance: THE BANISHMENT OF MING AND MAI",
+    "Mrs. Spring Fragrance: THE DECEPTIVE MAT",
+    "Mrs. Spring Fragrance: THE GARMENTS OF THE FAIRIES",
+    "Mrs. Spring Fragrance: THE GIFT OF LITTLE ME",
+    "Mrs. Spring Fragrance: THE LITTLE FAT ONE",
+    "Mrs. Spring Fragrance: _SUI SIN FAR_"
+  ]
+}

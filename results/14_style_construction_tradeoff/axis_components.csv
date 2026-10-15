@@ -1,0 +1,8 @@
+component,measure,axis,label,q05_config_mean,q95_config_mean,cells_with_value,configs_with_value
+luar_cos_ref,luar_cos_ref,voice,LUAR cosine to the author's reference set,0.76728,0.89051,7876,100
+wegmann_cos_source,wegmann_cos_source,voice,Wegmann cosine to the source,0.62427,0.94710,7876,100
+otd_inv,otd_js,voice,1 - opener-class distance (normalised),0.15536,0.52008,7876,100
+per_inv,per,construction,1 - proposition-echo rate (600-word cap),0.74281,0.98651,7876,100
+term_ok,terminal_missing,construction,last brief event present,0.36307,0.93434,7760,100
+cov_frac,coverage,construction,judged brief coverage / 100,0.27477,0.93605,4057,100
+rubric_C10,rubric_C,construction,rubric construction block / 10,0.21246,0.66644,2202,54

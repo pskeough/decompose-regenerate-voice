@@ -1,0 +1,19 @@
+measure,family,pair,params_b,n_briefs,abs_mean_diff
+coverage,Qwen3,chesterton_base4b vs chesterton_base4bc,4.00000,39,1.97436
+coverage,Ministral3,chesterton_basem3b vs chesterton_basem3b_r2,3.00000,39,5.53846
+coverage,Ministral3,patrick_v2_basem3b vs patrick_v2_basem3b_r2,3.00000,45,3.42222
+coverage,Qwen3,chesterton_base8b vs chesterton_base8b_r2,8.00000,39,0.15385
+coverage,Qwen3,chesterton_base14b vs chesterton_base14b_r2,14.00000,39,0.33333
+coverage,Ministral3,chesterton_basem8b vs chesterton_basem8b_r2,8.00000,39,3.61538
+coverage,Ministral3,chesterton_basem14b vs chesterton_basem14b_r2,14.00000,39,6.28205
+fool_vs_source,Qwen3,chesterton_base4b vs chesterton_base4bc,4.00000,39,0.01282
+fool_vs_source,Ministral3,chesterton_basem3b vs chesterton_basem3b_r2,3.00000,39,0.01282
+fool_vs_source,Ministral3,patrick_v2_basem3b vs patrick_v2_basem3b_r2,3.00000,45,0.02222
+fool_vs_source,Qwen3,chesterton_base8b vs chesterton_base8b_r2,8.00000,39,0.02564
+fool_vs_source,Qwen3,chesterton_base14b vs chesterton_base14b_r2,14.00000,39,0.03846
+fool_vs_source,Ministral3,chesterton_basem8b vs chesterton_basem8b_r2,8.00000,39,0.05128
+fool_vs_source,Ministral3,chesterton_basem14b vs chesterton_basem14b_r2,14.00000,39,0.02564
+rubric_C,Ministral3,chesterton_basem3b vs chesterton_basem3b_r2,3.00000,39,0.21453
+rubric_C,Ministral3,patrick_v2_basem3b vs patrick_v2_basem3b_r2,3.00000,45,0.02630
+rubric_S,Ministral3,chesterton_basem3b vs chesterton_basem3b_r2,3.00000,39,0.12515
+rubric_S,Ministral3,patrick_v2_basem3b vs patrick_v2_basem3b_r2,3.00000,45,0.04418

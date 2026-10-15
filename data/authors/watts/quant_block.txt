@@ -1,0 +1,8 @@
+Statistical targets for the passage. These describe the author's prose measured over many passages; match them as closely as the content allows.
+- Sentences average 11 words, with a wide spread: about 52% of sentences are under 9 words and about 3% are over 30 words.
+- Sentences carry about 0.6 commas each on average.
+- Semicolons appear in about 5 of every 100 sentences.
+- About 23% of sentences contain quoted speech.
+- Paragraphs average about 29 words.
+- Of every 100 sentences, about 61 begin with a different word from every other; the most common openers are "i", "the", "she", "it", "he".
+- Dashes appear about 0.0 times per 100 words.

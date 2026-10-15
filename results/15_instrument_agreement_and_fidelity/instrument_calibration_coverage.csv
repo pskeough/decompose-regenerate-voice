@@ -1,0 +1,65 @@
+measure,construct,source,in_generations,numeric,H_available,P_available,calibratable,reason_if_not
+luar_cos_source,voice_embed,scores.jsonl,True,True,False,False,False,"defined against the brief's own source passage; for a reference passage the source is itself, so the quantity is not comparable and was not scored"
+luar_cos_ref,voice_embed,scores.jsonl,True,True,True,True,True,
+luar_cos_ai,voice_embed,scores.jsonl,True,True,True,True,True,
+luar_attrib,attribution,scores.jsonl,True,True,True,True,True,
+luar_nearest,attribution,scores.jsonl,True,False,True,True,False,"categorical, no distance defined"
+wegmann_cos_source,voice_embed,scores.jsonl,True,True,False,False,False,"defined against the brief's own source passage; for a reference passage the source is itself, so the quantity is not comparable and was not scored"
+wegmann_cos_ref,voice_embed,scores.jsonl,True,True,True,True,True,
+wegmann_cos_ai,voice_embed,scores.jsonl,True,True,True,True,True,
+wegmann_attrib,attribution,scores.jsonl,True,True,True,True,True,
+styledist_cos_source,voice_embed,scores.jsonl,True,True,False,False,False,"defined against the brief's own source passage; for a reference passage the source is itself, so the quantity is not comparable and was not scored"
+styledist_cos_ref,voice_embed,scores.jsonl,True,True,True,True,True,
+styledist_cos_ai,voice_embed,scores.jsonl,True,True,True,True,True,
+styledist_attrib,attribution,scores.jsonl,True,True,True,True,True,
+geo_index,voice_structure,scores.jsonl,True,True,True,True,True,
+delta_own,voice_structure,scores.jsonl,True,True,True,True,True,
+delta_nearest,attribution,scores.jsonl,True,False,True,True,False,"categorical, no distance defined"
+delta_rank,attribution,scores.jsonl,True,True,True,True,True,
+cr_pos,voice_structure,scores.jsonl,True,True,True,True,True,
+open_entropy,voice_structure,scores.jsonl,True,True,True,True,True,
+open_top_share,voice_structure,scores.jsonl,True,True,True,True,True,
+open_distinct,voice_structure,scores.jsonl,True,True,True,True,True,
+open2_distinct,voice_structure,scores.jsonl,True,True,True,True,True,
+pct_short8,voice_structure,scores.jsonl,True,True,True,True,True,
+sent_len_mean,voice_structure,scores.jsonl,True,True,True,True,True,
+sent_len_cv,voice_structure,scores.jsonl,True,True,True,True,True,
+short_run_max,voice_structure,scores.jsonl,True,True,True,True,True,
+staccato_anaphora,tell,scores.jsonl,True,True,True,True,True,
+template_rate,tell,scores.jsonl,True,True,True,True,True,
+mattr,voice_structure,scores.jsonl,True,True,True,True,True,
+mtld,voice_structure,scores.jsonl,True,True,True,True,True,
+distinct_3,construction,scores.jsonl,True,True,True,True,True,
+rep_4,construction,scores.jsonl,True,True,True,True,True,
+sent_echo,construction,scores.jsonl,True,True,True,True,True,
+max_repeat,construction,scores.jsonl,True,True,True,True,True,
+memo_8gram,tell,scores.jsonl,True,True,False,False,False,overlap with the author's training text; only defined for a generation
+memo_lcs,tell,scores.jsonl,True,True,False,False,False,overlap with the author's training text; only defined for a generation
+memo_flag,tell,scores.jsonl,True,True,False,False,False,overlap with the author's training text; only defined for a generation
+commas_per_sent,voice_structure,scores.jsonl,True,True,True,True,True,
+em_dashes_per_100w,voice_structure,scores.jsonl,True,True,True,True,True,
+words,length,scores.jsonl,True,True,True,True,True,
+len_ratio,length,scores.jsonl,True,True,False,False,False,column exists in references.parquet but is empty for the author's own passages
+n_sent,length,scores.jsonl,True,True,True,True,True,
+truncated,length,gens flags,True,True,False,False,False,a decoding flag of the generation run; a human passage has no analogue
+preface,tell,gens flags,True,True,False,False,False,a decoding flag of the generation run; a human passage has no analogue
+shown_dist,adherence,scores.jsonl,True,True,True,True,True,
+per,construction,eval cache per_A0_cap600,True,True,False,False,False,"eval-cache measure computed on generations only; the cache keeps a per-author mean and sd of the author's own passages under source_stats, not per-passage values, and nothing at all for other authors, so neither H nor P exists"
+per_uncapped,construction,eval cache per_A0,True,True,False,False,False,"eval-cache measure computed on generations only; the cache keeps a per-author mean and sd of the author's own passages under source_stats, not per-passage values, and nothing at all for other authors, so neither H nor P exists"
+otd_js,voice_structure,eval cache otd_A0,True,True,False,False,False,"eval-cache measure computed on generations only; the cache keeps a per-author mean and sd of the author's own passages under source_stats, not per-passage values, and nothing at all for other authors, so neither H nor P exists"
+para_cv_words,voice_structure,eval cache psd_A0,False,False,False,False,False,not in the master cell table
+cv_diff,voice_structure,eval cache psd_A0,True,True,False,False,False,"eval-cache measure computed on generations only; the cache keeps a per-author mean and sd of the author's own passages under source_stats, not per-passage values, and nothing at all for other authors, so neither H nor P exists"
+w1_logpara,voice_structure,eval cache psd_A0,True,True,False,False,False,"eval-cache measure computed on generations only; the cache keeps a per-author mean and sd of the author's own passages under source_stats, not per-passage values, and nothing at all for other authors, so neither H nor P exists"
+burst_an_diff,voice_structure,eval cache cpd_A0,True,True,False,False,False,"eval-cache measure computed on generations only; the cache keeps a per-author mean and sd of the author's own passages under source_stats, not per-passage values, and nothing at all for other authors, so neither H nor P exists"
+cpd_z,voice_structure,eval cache cpd_A0,True,True,False,False,False,"eval-cache measure computed on generations only; the cache keeps a per-author mean and sd of the author's own passages under source_stats, not per-passage values, and nothing at all for other authors, so neither H nor P exists"
+hapax_w300,voice_structure,eval cache lexdiv_A0,True,True,False,False,False,"eval-cache measure computed on generations only; the cache keeps a per-author mean and sd of the author's own passages under source_stats, not per-passage values, and nothing at all for other authors, so neither H nor P exists"
+tau,adherence,eval cache event_order_A0,True,True,False,False,False,"eval-cache measure computed on generations only; the cache keeps a per-author mean and sd of the author's own passages under source_stats, not per-passage values, and nothing at all for other authors, so neither H nor P exists"
+terminal_missing,adherence,eval cache event_order_A0,True,True,False,False,False,"eval-cache measure computed on generations only; the cache keeps a per-author mean and sd of the author's own passages under source_stats, not per-passage values, and nothing at all for other authors, so neither H nor P exists"
+events_present,adherence,eval cache event_order_A0,True,True,False,False,False,"eval-cache measure computed on generations only; the cache keeps a per-author mean and sd of the author's own passages under source_stats, not per-passage values, and nothing at all for other authors, so neither H nor P exists"
+arti_w,tell,eval cache constructional_A0,True,True,False,False,False,"eval-cache measure computed on generations only; the cache keeps a per-author mean and sd of the author's own passages under source_stats, not per-passage values, and nothing at all for other authors, so neither H nor P exists"
+rfpd_w,voice_structure,eval cache constructional_A0,True,True,False,False,False,"eval-cache measure computed on generations only; the cache keeps a per-author mean and sd of the author's own passages under source_stats, not per-passage values, and nothing at all for other authors, so neither H nor P exists"
+coverage,adherence,coverage.jsonl,True,True,False,False,False,LLM-judge measure; the reference passages were never put through this judge pass
+fool_vs_source,judge,judge.jsonl,True,True,False,False,False,LLM-judge measure; the reference passages were never put through this judge pass
+win_vs_A0,judge,judge.jsonl,True,True,False,False,False,LLM-judge measure; the reference passages were never put through this judge pass
+rubric_C,construction,eval_results/judge,True,True,False,False,False,LLM-judge measure; the reference passages were never put through this judge pass
+rubric_S,judge,eval_results/judge,True,True,False,False,False,LLM-judge measure; the reference passages were never put through this judge pass

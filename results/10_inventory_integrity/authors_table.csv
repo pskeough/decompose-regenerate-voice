@@ -1,0 +1,15 @@
+author,name,author_class,private,n_test_chunks,n_ref_chunks,n_train_chunks,test_briefs_passed,train_briefs_passed,words_test,words_ref,words_train,words_total,n_works_train,n_works_test,n_works_ref,chunk_words_mean,retrieval_fallback_rows,within_work_test,split_seed,in_qwen_sweep,in_ministral_sweep,train_examples_max,n_cells,n_runs,n_briefs_used,families,sizes,briefs_used_matches_passed
+cather,Willa Cather,period,False,50,42,39,44,33,35041,29536,28170,92747,6,8,6,707.9924,0,False,20260903,True,False,156.0000,2376,6,44,Qwen3,"4,8,14",True
+chesterton,G. K. Chesterton,period,False,50,42,276,39,235,34982,29744,195736,260462,41,8,6,707.7772,0,False,20260903,True,True,1290.0000,4212,12,39,"Ministral3,Qwen3","3,4,8,14",True
+chopin,Kate Chopin,period,False,50,40,57,49,51,36700,29282,39821,105803,13,12,9,719.7483,0,False,20260903,True,False,282.0000,2646,6,49,Qwen3,"4,8,14",True
+doctorow,Cory Doctorow,contemporary,False,50,59,622,42,525,38482,45527,475108,559117,8,2,2,764.8659,0,False,20260903,True,True,1290.0000,4536,12,42,"Ministral3,Qwen3","3,4,8,14",True
+h_private,Private H,private,True,30,30,55,23,38,22689,22007,40299,84995,9,6,5,739.0870,0,True,20260903,True,False,204.0000,1380,6,23,Qwen3,"4,8,14",True
+link,Kelly Link,contemporary,False,25,20,58,16,33,18971,15076,42347,76394,6,3,2,741.6893,0,False,20260903,True,False,168.0000,864,6,16,Qwen3,"4,8,14",True
+mansfield,Katherine Mansfield,period,False,50,40,111,41,100,36400,28175,78783,143358,28,13,12,713.2239,0,False,20260903,True,False,504.0000,2214,6,41,Qwen3,"4,8,14",True
+patrick,Patrick (v1 chunking),private,True,50,43,188,46,178,24448,19840,86748,131036,21,17,7,466.3203,0,False,20260903,True,False,,920,2,46,Qwen3,4,True
+patrick_v2,Patrick,private,True,50,41,109,45,107,34497,27619,77412,139528,15,17,13,697.6400,0,False,20260903,True,True,624.0000,6300,14,45,"Ministral3,Qwen3","1.7,3,4,8,14",True
+rucker,Rudy Rucker,contemporary,False,50,116,327,47,242,37352,88826,250581,376759,3,1,1,764.2170,0,False,20260903,True,False,888.0000,2538,6,47,Qwen3,"4,8,14",True
+stross,Charles Stross,contemporary,False,50,52,91,41,71,37178,38729,67697,143604,4,3,2,744.0622,0,False,20260903,True,False,336.0000,2214,6,41,Qwen3,"4,8,14",True
+sui_sin_far,Sui Sin Far,period,False,30,27,32,24,25,22092,18684,22438,63214,14,10,8,710.2697,0,False,20260903,True,False,144.0000,1296,6,24,Qwen3,"4,8,14",True
+watts,Peter Watts,contemporary,False,50,125,262,45,225,38844,97352,201880,338076,2,1,1,773.6293,45,False,20260903,True,False,654.0000,2430,6,45,Qwen3,"4,8,14",True
+wharton,Edith Wharton,period,False,50,44,190,44,168,35924,31388,135041,202353,28,8,7,712.5106,0,False,20260903,True,False,894.0000,2288,6,44,Qwen3,"4,8,14",True

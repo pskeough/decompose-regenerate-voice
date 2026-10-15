@@ -1,0 +1,3 @@
+group,measure,n_authors,mean_delta,ci_low,ci_high,median_delta,n_positive,p_sign,p_wilcoxon,family
+"all configurations, patrick(v1) included",voice_axis,50,0.09795,0.00186,0.18824,0.14261,35,0.00660,0.01187,both
+"all configurations, patrick(v1) included",constr_axis,50,-0.31104,-0.42295,-0.20879,-0.16352,5,0.00000,0.00000,both

@@ -1,0 +1,37 @@
+measure,term,estimate,se,ci_low,ci_high,p,n_obs,n_groups,group_var,boundary_fit,re_variance_singular
+luar_cos_source,Intercept,-0.2865,0.1057,-0.4938,-0.0793,0.0067,40,13,0.0019,False,False
+luar_cos_source,C(author_class)[T.period],-0.0103,0.0275,-0.0643,0.0437,0.7085,40,13,0.0019,False,False
+luar_cos_source,C(author_class)[T.private],-0.0230,0.0379,-0.0974,0.0513,0.5436,40,13,0.0019,False,False
+luar_cos_source,log_params,-0.0005,0.0032,-0.0068,0.0058,0.8769,40,13,0.0019,False,False
+luar_cos_source,log_examples,0.0400,0.0114,0.0176,0.0624,0.0005,40,13,0.0019,False,False
+luar_cos_source,Group Var,7.3537,4.1929,-0.8642,15.5716,0.0795,40,13,0.0019,False,False
+wegmann_cos_source,Intercept,-0.6246,0.2431,-1.1011,-0.1481,0.0102,40,13,0.0101,False,False
+wegmann_cos_source,C(author_class)[T.period],-0.0334,0.0633,-0.1574,0.0907,0.5983,40,13,0.0101,False,False
+wegmann_cos_source,C(author_class)[T.private],0.0538,0.0872,-0.1171,0.2247,0.5375,40,13,0.0101,False,False
+wegmann_cos_source,log_params,-0.0207,0.0074,-0.0352,-0.0061,0.0054,40,13,0.0101,False,False
+wegmann_cos_source,log_examples,0.0795,0.0262,0.0281,0.1310,0.0024,40,13,0.0101,False,False
+wegmann_cos_source,Group Var,7.3632,4.2101,-0.8885,15.6149,0.0803,40,13,0.0101,False,False
+otd_js,Intercept,-0.4866,0.1179,-0.7177,-0.2554,0.0000,40,13,0.0024,False,False
+otd_js,C(author_class)[T.period],0.0110,0.0307,-0.0492,0.0711,0.7208,40,13,0.0024,False,False
+otd_js,C(author_class)[T.private],0.0429,0.0422,-0.0399,0.1256,0.3102,40,13,0.0024,False,False
+otd_js,log_params,-0.0290,0.0040,-0.0368,-0.0211,0.0000,40,13,0.0024,False,False
+otd_js,log_examples,0.0628,0.0127,0.0379,0.0878,0.0000,40,13,0.0024,False,False
+otd_js,Group Var,5.8950,3.4060,-0.7807,12.5706,0.0835,40,13,0.0024,False,False
+per,Intercept,-0.7141,0.1440,-0.9963,-0.4318,0.0000,40,13,0.0029,False,False
+per,C(author_class)[T.period],0.0049,0.0369,-0.0675,0.0773,0.8944,40,13,0.0029,False,False
+per,C(author_class)[T.private],0.0381,0.0506,-0.0609,0.1372,0.4506,40,13,0.0029,False,False
+per,log_params,-0.0293,0.0090,-0.0470,-0.0115,0.0012,40,13,0.0029,False,False
+per,log_examples,0.0795,0.0153,0.0495,0.1095,0.0000,40,13,0.0029,False,False
+per,Group Var,1.4309,0.9650,-0.4605,3.3223,0.1381,40,13,0.0029,False,False
+coverage,Intercept,-144.4482,20.0869,-183.8179,-105.0785,0.0000,40,13,39.8840,False,False
+coverage,C(author_class)[T.period],2.1915,5.0421,-7.6908,12.0738,0.6638,40,13,39.8840,False,False
+coverage,C(author_class)[T.private],1.6327,6.8343,-11.7623,15.0277,0.8112,40,13,39.8840,False,False
+coverage,log_params,-2.4430,1.8074,-5.9854,1.0994,0.1765,40,13,39.8840,False,False
+coverage,log_examples,13.4832,2.0864,9.3940,17.5725,0.0000,40,13,39.8840,False,False
+coverage,Group Var,0.4887,0.4487,-0.3907,1.3681,0.2761,40,13,39.8840,False,False
+truncated,Intercept,-0.9129,0.2126,-1.3296,-0.4961,0.0000,40,13,0.0000,False,False
+truncated,C(author_class)[T.period],-0.0046,0.0505,-0.1036,0.0944,0.9269,40,13,0.0000,False,False
+truncated,C(author_class)[T.private],0.0192,0.0667,-0.1115,0.1499,0.7736,40,13,0.0000,False,False
+truncated,log_params,-0.0792,0.0285,-0.1350,-0.0233,0.0055,40,13,0.0000,False,False
+truncated,log_examples,0.1104,0.0208,0.0696,0.1513,0.0000,40,13,0.0000,False,False
+truncated,Group Var,0.0000,0.4129,-0.8092,0.8092,1.0000,40,13,0.0000,False,False

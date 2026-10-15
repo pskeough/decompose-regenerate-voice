@@ -1,0 +1,10 @@
+embedding,author_class,n_authors,mean_pos_register_matched,mean_pos_period_pool,mean_difference,ci_low,ci_high,p,q
+luar,period,6,-5.0013,-2.1456,-2.8557,-7.2627,-0.1615,0.0312,0.0750
+luar,contemporary,5,-0.4900,0.0675,-0.5575,-0.8102,-0.2372,0.1250,0.1250
+luar,private,2,0.6173,0.2881,0.3292,0.2736,0.3848,,
+wegmann,period,6,-0.1635,0.2883,-0.4518,-0.9260,-0.0788,0.0625,0.0750
+wegmann,contemporary,5,-3.9052,0.6095,-4.5147,-6.7518,-2.2146,0.0625,0.0750
+wegmann,private,2,-2.5672,0.6944,-3.2616,-4.5954,-1.9279,,
+styledist,period,6,-0.3700,0.4446,-0.8145,-1.7883,-0.2025,0.0312,0.0750
+styledist,contemporary,5,-2.0840,0.6287,-2.7126,-4.3550,-1.4945,0.0625,0.0750
+styledist,private,2,0.3832,0.7067,-0.3235,-0.6014,-0.0457,,

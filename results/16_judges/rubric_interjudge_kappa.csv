@@ -1,0 +1,37 @@
+family,subscore,label,block,n_paired,qwk_gemini_vs_minimax,qwk_lo,qwk_hi,spearman,mean_gemini,mean_minimax
+both families,C1,referent clarity,construction,5053,0.5119,0.4933,0.5332,0.7786,6.8146,4.4544
+both families,C2,advancement,construction,5053,0.6972,0.6844,0.7108,0.8280,3.6275,2.6511
+both families,C3,event/state consistency,construction,5053,0.3624,0.3437,0.3790,0.7031,6.3129,3.3073
+both families,C4,arc completion,construction,5053,0.5554,0.5369,0.5740,0.7389,4.1502,2.9852
+both families,C5,circling,construction,5053,0.6338,0.6154,0.6531,0.7762,2.8007,1.8985
+both families,S1,opening move,craft,5053,0.2189,0.1885,0.2534,0.2040,3.8437,3.9163
+both families,S2,figure execution,craft,5053,0.6063,0.5894,0.6235,0.7231,3.5700,2.7847
+both families,S3,figure restraint,craft,5053,0.6953,0.6779,0.7121,0.7346,2.6125,2.2616
+both families,S4,register movement,craft,5053,0.5522,0.5319,0.5710,0.5973,3.0398,2.7607
+both families,S5,sentence-level stopping,craft,5053,0.5556,0.5309,0.5828,0.6489,3.5264,2.8573
+both families,S6,perspective control,craft,5053,0.4707,0.4543,0.4885,0.7554,6.0631,3.8181
+both families,S7,immersion,craft,5053,0.6075,0.5931,0.6229,0.7995,3.5581,2.4536
+Qwen3,C1,referent clarity,construction,2586,0.4803,0.4590,0.5034,0.7618,7.1555,4.6895
+Qwen3,C2,advancement,construction,2586,0.6628,0.6398,0.6814,0.7926,3.5785,2.6845
+Qwen3,C3,event/state consistency,construction,2586,0.3337,0.3143,0.3512,0.6792,6.5893,3.4532
+Qwen3,C4,arc completion,construction,2586,0.5225,0.4967,0.5482,0.7363,4.3867,3.1017
+Qwen3,C5,circling,construction,2586,0.5737,0.5444,0.5991,0.7265,2.6903,1.8693
+Qwen3,S1,opening move,craft,2586,0.2343,0.1969,0.2707,0.2603,3.5816,3.8948
+Qwen3,S2,figure execution,craft,2586,0.5283,0.5036,0.5541,0.6162,3.4853,2.8283
+Qwen3,S3,figure restraint,craft,2586,0.7021,0.6771,0.7217,0.7228,2.5800,2.3577
+Qwen3,S4,register movement,craft,2586,0.4902,0.4562,0.5219,0.4924,2.7583,2.7394
+Qwen3,S5,sentence-level stopping,craft,2586,0.5215,0.4879,0.5545,0.5958,3.4598,2.9072
+Qwen3,S6,perspective control,craft,2586,0.4358,0.4163,0.4564,0.7272,6.2997,4.0000
+Qwen3,S7,immersion,craft,2586,0.5719,0.5474,0.5928,0.7354,3.4853,2.5159
+Ministral3,C1,referent clarity,construction,1285,0.4337,0.3961,0.4669,0.7513,7.7082,5.1136
+Ministral3,C2,advancement,construction,1285,0.5372,0.5113,0.5602,0.7631,5.4210,3.7362
+Ministral3,C3,event/state consistency,construction,1285,0.2992,0.2664,0.3271,0.6825,7.3844,3.8949
+Ministral3,C4,arc completion,construction,1285,0.3914,0.3580,0.4280,0.6054,5.3798,3.8366
+Ministral3,C5,circling,construction,1285,0.4958,0.4600,0.5282,0.6894,4.5292,2.9183
+Ministral3,S1,opening move,craft,1285,0.2565,0.1981,0.3078,0.2622,4.1377,4.4973
+Ministral3,S2,figure execution,craft,1285,0.4755,0.4329,0.5093,0.7088,4.9751,3.5533
+Ministral3,S3,figure restraint,craft,1285,0.4907,0.4460,0.5303,0.5918,3.7603,2.8654
+Ministral3,S4,register movement,craft,1285,0.4028,0.3568,0.4401,0.5567,4.6498,3.4887
+Ministral3,S5,sentence-level stopping,craft,1285,0.3678,0.3253,0.4113,0.5387,4.8568,3.5416
+Ministral3,S6,perspective control,craft,1285,0.3869,0.3554,0.4168,0.7292,7.1696,4.4996
+Ministral3,S7,immersion,craft,1285,0.4018,0.3641,0.4318,0.7072,5.1268,3.2996

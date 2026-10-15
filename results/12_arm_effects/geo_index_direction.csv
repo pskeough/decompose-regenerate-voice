@@ -1,0 +1,5 @@
+measure,authors_own_passages,other_authors_passages,generations_A0,dictionary_direction,direction_used_here
+geo_index,0.9157,0.8238,0.1433,+,+
+delta_own,0.7106,0.8100,0.8809,-,-
+luar_cos_ref,0.9050,0.8416,0.8286,+,+
+template_rate,0.4910,0.4802,0.5486,-,-

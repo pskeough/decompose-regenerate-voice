@@ -1,0 +1,15 @@
+input,folder_exists,file_present,scope,contrast,n_rows,n_with_p,note
+11_scale_curves/gain.csv,True,True,author,adapter vs base,600,599,
+12_arm_effects/arm_contrasts_pooled.csv,True,True,pooled,arm vs A0 (base runs),782,618,
+12_arm_effects/prompt_vs_adapter_pooled.csv,True,True,pooled,best prompt vs adapter,943,759,
+13_corpus_data_effects/adapter_gain_by_author.csv,True,True,author,adapter vs base,600,599,
+14_style_construction_tradeoff/author_level_tests.csv,True,True,pooled,adapter vs base (voice/construction axis),90,81,
+14_style_construction_tradeoff/paired_deltas_by_configuration.csv,True,True,author,adapter vs base (voice/construction axis),427,427,
+16_judges/coverage_adapter_minus_base.csv,True,True,author,adapter vs base,50,0,no p-values; estimates and intervals only
+17_length_truncation/words_adapter_minus_base.csv,True,True,author,adapter vs base,50,0,no p-values; estimates and intervals only
+18_cross_family/adapter_gain_paired.csv,True,True,author,adapter vs base,270,270,
+18_cross_family/base_family_diff.csv,True,True,author,Qwen3 base vs Ministral3 base,135,135,
+19_author_heterogeneity/author_effects.csv,True,True,author,adapter vs base,550,550,
+19_author_heterogeneity/pooled_dl.csv,True,True,pooled,adapter vs base (DerSimonian-Laird),66,66,
+20_brief_covariates/brief_predictors.csv,True,False,pooled,brief covariate effect,0,0,not written when this script ran
+21_attribution_detection/attribution_by_config.csv,True,False,pooled,attribution / detection rate,0,0,not written when this script ran

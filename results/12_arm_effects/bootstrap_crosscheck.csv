@@ -1,0 +1,10 @@
+measure,run,vectorised_mean,vectorised_lo,vectorised_hi,lib_cluster_mean,lib_cluster_lo,lib_cluster_hi,abs_mean_gap,abs_ci_gap
+luar_cos_source,chesterton_base4b,0.0161,-0.0085,0.0410,0.0161,-0.0085,0.0410,0.0000,0.0000
+luar_cos_source,wharton_base8b,0.0117,-0.0093,0.0326,0.0117,-0.0093,0.0326,0.0000,0.0000
+luar_cos_source,doctorow_base14b,0.0176,0.0005,0.0335,0.0176,0.0005,0.0335,0.0000,0.0000
+geo_index,chesterton_base4b,-0.1991,-0.3407,-0.0553,-0.1991,-0.3407,-0.0553,0.0000,0.0000
+geo_index,wharton_base8b,-0.1111,-0.2217,0.0046,-0.1111,-0.2217,0.0046,0.0000,0.0000
+geo_index,doctorow_base14b,-0.3221,-0.4347,-0.2123,-0.3221,-0.4347,-0.2123,0.0000,0.0000
+coverage,chesterton_base4b,-2.6154,-10.8481,5.1032,-2.6154,-10.8481,5.1032,0.0000,0.0000
+coverage,wharton_base8b,-2.7727,-7.9773,1.8869,-2.7727,-7.9773,1.8869,0.0000,0.0000
+coverage,doctorow_base14b,2.3415,-1.5854,5.8543,2.3415,-1.5854,5.8543,0.0000,0.0000

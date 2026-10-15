@@ -1,0 +1,20 @@
+column,rows_checked,share_identical_across_arms,distinct_values_overall,verdict
+coverage,170,0.0588,35,varies by arm
+win_vs_A0,170,0.0235,5,varies by arm
+luar_cos_source,340,0.0000,1949,varies by arm
+shown_dist,340,0.0000,1949,varies by arm
+template_rate,340,0.0000,1901,varies by arm
+per,0,,97,"present on one arm only, undecidable"
+per_uncapped,0,,132,"present on one arm only, undecidable"
+otd_js,0,,340,"present on one arm only, undecidable"
+hapax_w300,0,,80,"present on one arm only, undecidable"
+tau,0,,98,"present on one arm only, undecidable"
+terminal_missing,0,,2,"present on one arm only, undecidable"
+events_present,0,,43,"present on one arm only, undecidable"
+arti_w,0,,330,"present on one arm only, undecidable"
+rfpd_w,0,,340,"present on one arm only, undecidable"
+cpd_z,0,,340,"present on one arm only, undecidable"
+burst_an_diff,0,,340,"present on one arm only, undecidable"
+w1_logpara,0,,340,"present on one arm only, undecidable"
+rubric_C,0,,90,"present on one arm only, undecidable"
+rubric_S,0,,91,"present on one arm only, undecidable"

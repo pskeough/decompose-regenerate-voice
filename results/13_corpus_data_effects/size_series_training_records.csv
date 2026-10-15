@@ -1,0 +1,6 @@
+train_run,n_targets,n_examples,steps,best_eval_loss,probe_delta,wall_s
+train_chesterton_pair_n25_e6,25,150,19,2.7543,-0.6477,955.8735
+train_chesterton_pair_n50_e6,50,300,38,2.6919,-0.6947,1061.7153
+train_chesterton_pair_n100_e6,100,600,75,2.6410,-0.7162,2749.3545
+train_chesterton_pair_n150_e6,150,900,113,2.6204,-0.7167,2457.8570
+train_chesterton_pair_e6,215,1290,162,2.6098,-0.7104,2305.2576

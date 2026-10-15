@@ -1,0 +1,17 @@
+difficulty_measure,predictor,n_authors,mean_within_author_spearman,ci_low,ci_high,p,q_bh
+coverage,source_words,14,0.1734,0.1003,0.2421,0.0012,0.0098
+coverage,n_events,14,0.1308,0.0479,0.2114,0.0085,0.0273
+coverage,dialogue_share,14,0.2682,0.1506,0.3755,0.0031,0.0122
+coverage,brief_words,14,0.0096,-0.0682,0.0978,0.9032,0.9102
+truncated,source_words,14,0.3148,0.2215,0.4118,0.0001,0.0020
+truncated,n_events,14,0.0953,-0.0366,0.2134,0.1726,0.2511
+truncated,dialogue_share,14,0.0816,-0.0452,0.1794,0.0295,0.0591
+truncated,brief_words,14,0.2130,0.1119,0.3169,0.0031,0.0122
+per,source_words,14,0.0982,0.0375,0.1554,0.0134,0.0307
+per,n_events,14,0.0653,-0.0339,0.1544,0.1531,0.2449
+per,dialogue_share,14,0.3206,0.1598,0.4552,0.0107,0.0286
+per,brief_words,14,-0.0113,-0.0664,0.0452,0.7532,0.8607
+terminal_missing,source_words,9,0.0820,-0.0337,0.1923,0.3008,0.4010
+terminal_missing,n_events,9,0.0550,-0.0378,0.1588,0.6523,0.8029
+terminal_missing,dialogue_share,9,-0.0018,-0.1280,0.1012,0.9102,0.9102
+terminal_missing,brief_words,9,-0.1067,-0.1994,-0.0138,0.0742,0.1319

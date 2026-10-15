@@ -1,0 +1,106 @@
+{
+  "author": "chesterton",
+  "seed": 20260903,
+  "unit": "work",
+  "works": {
+    "test": [
+      "204_03",
+      "70175_00",
+      "20058_00",
+      "223_08",
+      "70175_06",
+      "69185_06",
+      "1720_02",
+      "1695_00"
+    ],
+    "ref": [
+      "70175_03",
+      "69185_00",
+      "59239_00",
+      "1718_00",
+      "69185_01",
+      "1696_01"
+    ],
+    "train": [
+      "204_10",
+      "204_07",
+      "70175_02",
+      "1720_06",
+      "5265_00",
+      "204_05",
+      "70175_01",
+      "204_06",
+      "70175_09",
+      "1720_07",
+      "223_06",
+      "1720_01",
+      "223_09",
+      "70175_08",
+      "204_11",
+      "223_02",
+      "69185_05",
+      "69185_02",
+      "1720_00",
+      "223_10",
+      "223_00",
+      "70175_07",
+      "1696_00",
+      "223_01",
+      "70175_04",
+      "204_00",
+      "1720_03",
+      "69185_04",
+      "223_07",
+      "1720_04",
+      "204_08",
+      "223_03",
+      "204_02",
+      "204_09",
+      "223_05",
+      "204_01",
+      "69185_03",
+      "1720_05",
+      "204_04",
+      "223_04",
+      "70175_05"
+    ]
+  },
+  "counts": {
+    "test": 50,
+    "ref": 42,
+    "train_fit": 251,
+    "train_val": 25,
+    "train_with_prev": 235,
+    "train_with_both": 194,
+    "others": 1201
+  },
+  "words": {
+    "test": 34982,
+    "ref": 29744,
+    "train": 195736
+  },
+  "val_works": [
+    "1696_00",
+    "1720_05",
+    "204_00",
+    "70175_05"
+  ],
+  "test_volume_titles": [
+    "Tales of the Long Bow: THE ULTIMATE ULTIMATUM OF THE LEAGUE OF THE LONG BOW",
+    "The Innocence of Father Brown: The Flying Stars",
+    "The Man Who Knew Too Much: III. THE SOUL OF THE SCHOOLBOY",
+    "The Man Who Was Thursday",
+    "The Napoleon of Notting Hill",
+    "The Secret of Father Brown: THE SECRET OF FATHER BROWN",
+    "The Secret of Father Brown: THE WORST CRIME IN THE WORLD",
+    "The Wisdom of Father Brown: TEN -- The Salad of Colonel Cray"
+  ],
+  "ref_volume_titles": [
+    "Manalive",
+    "Tales of the Long Bow: THE UNOBTRUSIVE TRAFFIC OF CAPTAIN PIERCE",
+    "Tales of the Long Bow: THE UNPRESENTABLE APPEARANCE OF COLONEL CRANE",
+    "The Club of Queer Trades: DEATH TO MAJOR BROWN",
+    "The Flying Inn",
+    "The Secret of Father Brown: THE SONG OF THE FLYING FISH"
+  ]
+}

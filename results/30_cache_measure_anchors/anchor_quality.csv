@@ -1,0 +1,12 @@
+measure,construct,definition,n_rows,n_authors,median_separation_over_floor,share_anchor_usable,median_floor,position_usable
+otd_js,voice_structure,ref-anchored,98,13,5.0586,0.8163,0.0059,True
+burst_an_diff,voice_structure,ref-anchored,98,13,3.8547,0.7551,0.0168,True
+cv_diff,voice_structure,ref-anchored,98,13,3.3482,0.6327,0.0443,True
+para_cv_words,voice_structure,absolute,98,13,3.3482,0.6327,0.0443,True
+arti_w,tell,calibration-z,98,13,1.6082,0.2041,0.0484,False
+per,construction,absolute,98,13,1.5485,0.3878,0.0100,False
+rfpd_w,voice_structure,calibration-z,98,13,1.2486,0.2653,0.0472,False
+hapax_w300,voice_structure,absolute,98,13,1.2199,0.4490,0.0152,False
+cpd_z,voice_structure,ref-anchored,98,13,1.2028,0.2041,0.1142,False
+per_uncapped,construction,absolute,98,13,0.6239,0.0612,0.0246,False
+w1_logpara,voice_structure,ref-anchored,98,13,0.6052,0.2653,0.1774,False

@@ -1,0 +1,385 @@
+family,params_b,level,measure,covariate,n_authors,spearman,ci_low,ci_high,p,q_bh,interval_width
+Ministral3,14.0000,Ministral3 14B,coverage,n_works_train,3,,,,,,
+Ministral3,3.0000,Ministral3 3B,coverage,n_works_train,3,,,,,,
+Ministral3,8.0000,Ministral3 8B,coverage,n_works_train,3,,,,,,
+Qwen3,1.7000,Qwen3 1.7B,coverage,n_works_train,1,,,,,,
+Qwen3,14.0000,Qwen3 14B,coverage,n_works_train,13,0.2534,-0.3766,0.7950,0.4034,0.4611,1.1716
+Qwen3,4.0000,Qwen3 4B,coverage,n_works_train,14,0.2775,-0.2772,0.7579,0.3367,0.3974,1.0352
+Qwen3,8.0000,Qwen3 8B,coverage,n_works_train,13,0.3278,-0.3411,0.7948,0.2742,0.3371,1.1359
+Qwen3,,Qwen3 pooled over sizes,coverage,n_works_train,14,0.3128,-0.2817,0.7813,0.2762,0.3371,1.0630
+Ministral3,14.0000,Ministral3 14B,coverage,train_briefs_passed,3,,,,,,
+Ministral3,3.0000,Ministral3 3B,coverage,train_briefs_passed,3,,,,,,
+Ministral3,8.0000,Ministral3 8B,coverage,train_briefs_passed,3,,,,,,
+Qwen3,1.7000,Qwen3 1.7B,coverage,train_briefs_passed,1,,,,,,
+Qwen3,14.0000,Qwen3 14B,coverage,train_briefs_passed,13,0.8776,0.5762,0.9902,0.0001,0.0020,0.4140
+Qwen3,4.0000,Qwen3 4B,coverage,train_briefs_passed,14,0.7481,0.3836,0.8881,0.0021,0.0064,0.5045
+Qwen3,8.0000,Qwen3 8B,coverage,train_briefs_passed,13,0.8418,0.4705,0.9824,0.0003,0.0032,0.5119
+Qwen3,,Qwen3 pooled over sizes,coverage,train_briefs_passed,14,0.8581,0.5304,0.9684,0.0001,0.0020,0.4380
+Ministral3,14.0000,Ministral3 14B,coverage,train_examples_max,3,,,,,,
+Ministral3,3.0000,Ministral3 3B,coverage,train_examples_max,3,,,,,,
+Ministral3,8.0000,Ministral3 8B,coverage,train_examples_max,3,,,,,,
+Qwen3,1.7000,Qwen3 1.7B,coverage,train_examples_max,1,,,,,,
+Qwen3,14.0000,Qwen3 14B,coverage,train_examples_max,13,0.8693,0.5747,0.9776,0.0001,0.0020,0.4029
+Qwen3,4.0000,Qwen3 4B,coverage,train_examples_max,13,0.7620,0.3251,0.9241,0.0025,0.0070,0.5990
+Qwen3,8.0000,Qwen3 8B,coverage,train_examples_max,13,0.8446,0.5007,0.9832,0.0003,0.0031,0.4825
+Qwen3,,Qwen3 pooled over sizes,coverage,train_examples_max,13,0.8583,0.4943,0.9789,0.0002,0.0027,0.4845
+Ministral3,14.0000,Ministral3 14B,coverage,words_total,3,,,,,,
+Ministral3,3.0000,Ministral3 3B,coverage,words_total,3,,,,,,
+Ministral3,8.0000,Ministral3 8B,coverage,words_total,3,,,,,,
+Qwen3,1.7000,Qwen3 1.7B,coverage,words_total,1,,,,,,
+Qwen3,14.0000,Qwen3 14B,coverage,words_total,13,0.7912,0.4039,0.9609,0.0013,0.0059,0.5570
+Qwen3,4.0000,Qwen3 4B,coverage,words_total,14,0.6527,0.1791,0.8527,0.0114,0.0198,0.6736
+Qwen3,8.0000,Qwen3 8B,coverage,words_total,13,0.7527,0.2402,0.9432,0.0030,0.0073,0.7030
+Qwen3,,Qwen3 pooled over sizes,coverage,words_total,14,0.7363,0.2455,0.9136,0.0027,0.0070,0.6681
+Ministral3,14.0000,Ministral3 14B,geo_index,n_works_train,3,,,,,,
+Ministral3,3.0000,Ministral3 3B,geo_index,n_works_train,3,,,,,,
+Ministral3,8.0000,Ministral3 8B,geo_index,n_works_train,3,,,,,,
+Qwen3,1.7000,Qwen3 1.7B,geo_index,n_works_train,1,,,,,,
+Qwen3,14.0000,Qwen3 14B,geo_index,n_works_train,13,0.4959,-0.0659,0.8740,0.0848,0.1152,0.9399
+Qwen3,4.0000,Qwen3 4B,geo_index,n_works_train,14,0.1674,-0.4320,0.6831,0.5673,0.6236,1.1151
+Qwen3,8.0000,Qwen3 8B,geo_index,n_works_train,13,0.2507,-0.4701,0.7211,0.4087,0.4635,1.1912
+Qwen3,,Qwen3 pooled over sizes,geo_index,n_works_train,14,0.5066,-0.1208,0.8182,0.0645,0.0893,0.9389
+Ministral3,14.0000,Ministral3 14B,geo_index,train_briefs_passed,3,,,,,,
+Ministral3,3.0000,Ministral3 3B,geo_index,train_briefs_passed,3,,,,,,
+Ministral3,8.0000,Ministral3 8B,geo_index,train_briefs_passed,3,,,,,,
+Qwen3,1.7000,Qwen3 1.7B,geo_index,train_briefs_passed,1,,,,,,
+Qwen3,14.0000,Qwen3 14B,geo_index,train_briefs_passed,13,0.4264,-0.2257,0.8620,0.1462,0.1897,1.0878
+Qwen3,4.0000,Qwen3 4B,geo_index,train_briefs_passed,14,0.7349,0.3077,0.9184,0.0028,0.0070,0.6107
+Qwen3,8.0000,Qwen3 8B,geo_index,train_briefs_passed,13,0.5750,-0.0822,0.8811,0.0398,0.0568,0.9633
+Qwen3,,Qwen3 pooled over sizes,geo_index,train_briefs_passed,14,0.7261,0.2114,0.9266,0.0033,0.0076,0.7152
+Ministral3,14.0000,Ministral3 14B,geo_index,train_examples_max,3,,,,,,
+Ministral3,3.0000,Ministral3 3B,geo_index,train_examples_max,3,,,,,,
+Ministral3,8.0000,Ministral3 8B,geo_index,train_examples_max,3,,,,,,
+Qwen3,1.7000,Qwen3 1.7B,geo_index,train_examples_max,1,,,,,,
+Qwen3,14.0000,Qwen3 14B,geo_index,train_examples_max,13,0.4732,-0.1319,0.8915,0.1024,0.1366,1.0234
+Qwen3,4.0000,Qwen3 4B,geo_index,train_examples_max,13,0.7703,0.3070,0.9494,0.0021,0.0064,0.6425
+Qwen3,8.0000,Qwen3 8B,geo_index,train_examples_max,13,0.5750,-0.1068,0.8552,0.0398,0.0568,0.9619
+Qwen3,,Qwen3 pooled over sizes,geo_index,train_examples_max,13,0.8088,0.3674,0.9667,0.0008,0.0047,0.5992
+Ministral3,14.0000,Ministral3 14B,geo_index,words_total,3,,,,,,
+Ministral3,3.0000,Ministral3 3B,geo_index,words_total,3,,,,,,
+Ministral3,8.0000,Ministral3 8B,geo_index,words_total,3,,,,,,
+Qwen3,1.7000,Qwen3 1.7B,geo_index,words_total,1,,,,,,
+Qwen3,14.0000,Qwen3 14B,geo_index,words_total,13,0.2582,-0.3408,0.7824,0.3943,0.4542,1.1231
+Qwen3,4.0000,Qwen3 4B,geo_index,words_total,14,0.6967,0.2269,0.8926,0.0056,0.0111,0.6657
+Qwen3,8.0000,Qwen3 8B,geo_index,words_total,13,0.5055,-0.1687,0.8213,0.0780,0.1070,0.9900
+Qwen3,,Qwen3 pooled over sizes,geo_index,words_total,14,0.5604,-0.0800,0.8226,0.0371,0.0540,0.9026
+Ministral3,14.0000,Ministral3 14B,hapax_w300,n_works_train,0,,,,,,
+Ministral3,3.0000,Ministral3 3B,hapax_w300,n_works_train,0,,,,,,
+Ministral3,8.0000,Ministral3 8B,hapax_w300,n_works_train,0,,,,,,
+Qwen3,1.7000,Qwen3 1.7B,hapax_w300,n_works_train,0,,,,,,
+Qwen3,14.0000,Qwen3 14B,hapax_w300,n_works_train,0,,,,,,
+Qwen3,4.0000,Qwen3 4B,hapax_w300,n_works_train,0,,,,,,
+Qwen3,8.0000,Qwen3 8B,hapax_w300,n_works_train,0,,,,,,
+Qwen3,,Qwen3 pooled over sizes,hapax_w300,n_works_train,0,,,,,,
+Ministral3,14.0000,Ministral3 14B,hapax_w300,train_briefs_passed,0,,,,,,
+Ministral3,3.0000,Ministral3 3B,hapax_w300,train_briefs_passed,0,,,,,,
+Ministral3,8.0000,Ministral3 8B,hapax_w300,train_briefs_passed,0,,,,,,
+Qwen3,1.7000,Qwen3 1.7B,hapax_w300,train_briefs_passed,0,,,,,,
+Qwen3,14.0000,Qwen3 14B,hapax_w300,train_briefs_passed,0,,,,,,
+Qwen3,4.0000,Qwen3 4B,hapax_w300,train_briefs_passed,0,,,,,,
+Qwen3,8.0000,Qwen3 8B,hapax_w300,train_briefs_passed,0,,,,,,
+Qwen3,,Qwen3 pooled over sizes,hapax_w300,train_briefs_passed,0,,,,,,
+Ministral3,14.0000,Ministral3 14B,hapax_w300,train_examples_max,0,,,,,,
+Ministral3,3.0000,Ministral3 3B,hapax_w300,train_examples_max,0,,,,,,
+Ministral3,8.0000,Ministral3 8B,hapax_w300,train_examples_max,0,,,,,,
+Qwen3,1.7000,Qwen3 1.7B,hapax_w300,train_examples_max,0,,,,,,
+Qwen3,14.0000,Qwen3 14B,hapax_w300,train_examples_max,0,,,,,,
+Qwen3,4.0000,Qwen3 4B,hapax_w300,train_examples_max,0,,,,,,
+Qwen3,8.0000,Qwen3 8B,hapax_w300,train_examples_max,0,,,,,,
+Qwen3,,Qwen3 pooled over sizes,hapax_w300,train_examples_max,0,,,,,,
+Ministral3,14.0000,Ministral3 14B,hapax_w300,words_total,0,,,,,,
+Ministral3,3.0000,Ministral3 3B,hapax_w300,words_total,0,,,,,,
+Ministral3,8.0000,Ministral3 8B,hapax_w300,words_total,0,,,,,,
+Qwen3,1.7000,Qwen3 1.7B,hapax_w300,words_total,0,,,,,,
+Qwen3,14.0000,Qwen3 14B,hapax_w300,words_total,0,,,,,,
+Qwen3,4.0000,Qwen3 4B,hapax_w300,words_total,0,,,,,,
+Qwen3,8.0000,Qwen3 8B,hapax_w300,words_total,0,,,,,,
+Qwen3,,Qwen3 pooled over sizes,hapax_w300,words_total,0,,,,,,
+Ministral3,14.0000,Ministral3 14B,len_ratio,n_works_train,0,,,,,,
+Ministral3,3.0000,Ministral3 3B,len_ratio,n_works_train,0,,,,,,
+Ministral3,8.0000,Ministral3 8B,len_ratio,n_works_train,0,,,,,,
+Qwen3,1.7000,Qwen3 1.7B,len_ratio,n_works_train,0,,,,,,
+Qwen3,14.0000,Qwen3 14B,len_ratio,n_works_train,0,,,,,,
+Qwen3,4.0000,Qwen3 4B,len_ratio,n_works_train,0,,,,,,
+Qwen3,8.0000,Qwen3 8B,len_ratio,n_works_train,0,,,,,,
+Qwen3,,Qwen3 pooled over sizes,len_ratio,n_works_train,0,,,,,,
+Ministral3,14.0000,Ministral3 14B,len_ratio,train_briefs_passed,0,,,,,,
+Ministral3,3.0000,Ministral3 3B,len_ratio,train_briefs_passed,0,,,,,,
+Ministral3,8.0000,Ministral3 8B,len_ratio,train_briefs_passed,0,,,,,,
+Qwen3,1.7000,Qwen3 1.7B,len_ratio,train_briefs_passed,0,,,,,,
+Qwen3,14.0000,Qwen3 14B,len_ratio,train_briefs_passed,0,,,,,,
+Qwen3,4.0000,Qwen3 4B,len_ratio,train_briefs_passed,0,,,,,,
+Qwen3,8.0000,Qwen3 8B,len_ratio,train_briefs_passed,0,,,,,,
+Qwen3,,Qwen3 pooled over sizes,len_ratio,train_briefs_passed,0,,,,,,
+Ministral3,14.0000,Ministral3 14B,len_ratio,train_examples_max,0,,,,,,
+Ministral3,3.0000,Ministral3 3B,len_ratio,train_examples_max,0,,,,,,
+Ministral3,8.0000,Ministral3 8B,len_ratio,train_examples_max,0,,,,,,
+Qwen3,1.7000,Qwen3 1.7B,len_ratio,train_examples_max,0,,,,,,
+Qwen3,14.0000,Qwen3 14B,len_ratio,train_examples_max,0,,,,,,
+Qwen3,4.0000,Qwen3 4B,len_ratio,train_examples_max,0,,,,,,
+Qwen3,8.0000,Qwen3 8B,len_ratio,train_examples_max,0,,,,,,
+Qwen3,,Qwen3 pooled over sizes,len_ratio,train_examples_max,0,,,,,,
+Ministral3,14.0000,Ministral3 14B,len_ratio,words_total,0,,,,,,
+Ministral3,3.0000,Ministral3 3B,len_ratio,words_total,0,,,,,,
+Ministral3,8.0000,Ministral3 8B,len_ratio,words_total,0,,,,,,
+Qwen3,1.7000,Qwen3 1.7B,len_ratio,words_total,0,,,,,,
+Qwen3,14.0000,Qwen3 14B,len_ratio,words_total,0,,,,,,
+Qwen3,4.0000,Qwen3 4B,len_ratio,words_total,0,,,,,,
+Qwen3,8.0000,Qwen3 8B,len_ratio,words_total,0,,,,,,
+Qwen3,,Qwen3 pooled over sizes,len_ratio,words_total,0,,,,,,
+Ministral3,14.0000,Ministral3 14B,luar_cos_ref,n_works_train,3,,,,,,
+Ministral3,3.0000,Ministral3 3B,luar_cos_ref,n_works_train,3,,,,,,
+Ministral3,8.0000,Ministral3 8B,luar_cos_ref,n_works_train,3,,,,,,
+Qwen3,1.7000,Qwen3 1.7B,luar_cos_ref,n_works_train,1,,,,,,
+Qwen3,14.0000,Qwen3 14B,luar_cos_ref,n_works_train,13,0.1570,-0.5688,0.7071,0.6084,0.6637,1.2759
+Qwen3,4.0000,Qwen3 4B,luar_cos_ref,n_works_train,14,0.1189,-0.5956,0.6667,0.6855,0.7312,1.2623
+Qwen3,8.0000,Qwen3 8B,luar_cos_ref,n_works_train,13,0.0220,-0.7666,0.6069,0.9430,0.9496,1.3735
+Qwen3,,Qwen3 pooled over sizes,luar_cos_ref,n_works_train,14,0.0242,-0.7182,0.5854,0.9345,0.9476,1.3036
+Ministral3,14.0000,Ministral3 14B,luar_cos_ref,train_briefs_passed,3,,,,,,
+Ministral3,3.0000,Ministral3 3B,luar_cos_ref,train_briefs_passed,3,,,,,,
+Ministral3,8.0000,Ministral3 8B,luar_cos_ref,train_briefs_passed,3,,,,,,
+Qwen3,1.7000,Qwen3 1.7B,luar_cos_ref,train_briefs_passed,1,,,,,,
+Qwen3,14.0000,Qwen3 14B,luar_cos_ref,train_briefs_passed,13,0.6327,0.0427,0.9316,0.0203,0.0328,0.8889
+Qwen3,4.0000,Qwen3 4B,luar_cos_ref,train_briefs_passed,14,0.6645,0.1600,0.9281,0.0095,0.0176,0.7681
+Qwen3,8.0000,Qwen3 8B,luar_cos_ref,train_briefs_passed,13,0.7043,0.1656,0.9475,0.0072,0.0135,0.7819
+Qwen3,,Qwen3 pooled over sizes,luar_cos_ref,train_briefs_passed,14,0.5941,0.0300,0.9054,0.0251,0.0384,0.8754
+Ministral3,14.0000,Ministral3 14B,luar_cos_ref,train_examples_max,3,,,,,,
+Ministral3,3.0000,Ministral3 3B,luar_cos_ref,train_examples_max,3,,,,,,
+Ministral3,8.0000,Ministral3 8B,luar_cos_ref,train_examples_max,3,,,,,,
+Qwen3,1.7000,Qwen3 1.7B,luar_cos_ref,train_examples_max,1,,,,,,
+Qwen3,14.0000,Qwen3 14B,luar_cos_ref,train_examples_max,13,0.6217,0.0391,0.8939,0.0233,0.0361,0.8548
+Qwen3,4.0000,Qwen3 4B,luar_cos_ref,train_examples_max,13,0.7345,0.2394,0.9609,0.0042,0.0090,0.7215
+Qwen3,8.0000,Qwen3 8B,luar_cos_ref,train_examples_max,13,0.6768,0.1821,0.9375,0.0111,0.0197,0.7554
+Qwen3,,Qwen3 pooled over sizes,luar_cos_ref,train_examples_max,13,0.6685,0.1711,0.9159,0.0125,0.0212,0.7447
+Ministral3,14.0000,Ministral3 14B,luar_cos_ref,words_total,3,,,,,,
+Ministral3,3.0000,Ministral3 3B,luar_cos_ref,words_total,3,,,,,,
+Ministral3,8.0000,Ministral3 8B,luar_cos_ref,words_total,3,,,,,,
+Qwen3,1.7000,Qwen3 1.7B,luar_cos_ref,words_total,1,,,,,,
+Qwen3,14.0000,Qwen3 14B,luar_cos_ref,words_total,13,0.6264,0.0666,0.9157,0.0220,0.0352,0.8491
+Qwen3,4.0000,Qwen3 4B,luar_cos_ref,words_total,14,0.7626,0.3393,0.9326,0.0015,0.0059,0.5933
+Qwen3,8.0000,Qwen3 8B,luar_cos_ref,words_total,13,0.7527,0.2737,0.9364,0.0030,0.0073,0.6628
+Qwen3,,Qwen3 pooled over sizes,luar_cos_ref,words_total,14,0.7451,0.3408,0.9238,0.0022,0.0067,0.5830
+Ministral3,14.0000,Ministral3 14B,luar_cos_source,n_works_train,3,,,,,,
+Ministral3,3.0000,Ministral3 3B,luar_cos_source,n_works_train,3,,,,,,
+Ministral3,8.0000,Ministral3 8B,luar_cos_source,n_works_train,3,,,,,,
+Qwen3,1.7000,Qwen3 1.7B,luar_cos_source,n_works_train,1,,,,,,
+Qwen3,14.0000,Qwen3 14B,luar_cos_source,n_works_train,13,0.0771,-0.5606,0.6865,0.8022,0.8251,1.2471
+Qwen3,4.0000,Qwen3 4B,luar_cos_source,n_works_train,14,0.1894,-0.5288,0.7536,0.5166,0.5767,1.2824
+Qwen3,8.0000,Qwen3 8B,luar_cos_source,n_works_train,13,0.0964,-0.6380,0.6518,0.7540,0.7925,1.2898
+Qwen3,,Qwen3 pooled over sizes,luar_cos_source,n_works_train,14,0.1035,-0.6063,0.6491,0.7247,0.7673,1.2553
+Ministral3,14.0000,Ministral3 14B,luar_cos_source,train_briefs_passed,3,,,,,,
+Ministral3,3.0000,Ministral3 3B,luar_cos_source,train_briefs_passed,3,,,,,,
+Ministral3,8.0000,Ministral3 8B,luar_cos_source,train_briefs_passed,3,,,,,,
+Qwen3,1.7000,Qwen3 1.7B,luar_cos_source,train_briefs_passed,1,,,,,,
+Qwen3,14.0000,Qwen3 14B,luar_cos_source,train_briefs_passed,13,0.7840,0.3726,0.9786,0.0015,0.0059,0.6060
+Qwen3,4.0000,Qwen3 4B,luar_cos_source,train_briefs_passed,14,0.7129,0.2465,0.9318,0.0042,0.0090,0.6854
+Qwen3,8.0000,Qwen3 8B,luar_cos_source,train_briefs_passed,13,0.7895,0.3711,0.9734,0.0013,0.0059,0.6023
+Qwen3,,Qwen3 pooled over sizes,luar_cos_source,train_briefs_passed,14,0.7217,0.2350,0.9538,0.0036,0.0079,0.7188
+Ministral3,14.0000,Ministral3 14B,luar_cos_source,train_examples_max,3,,,,,,
+Ministral3,3.0000,Ministral3 3B,luar_cos_source,train_examples_max,3,,,,,,
+Ministral3,8.0000,Ministral3 8B,luar_cos_source,train_examples_max,3,,,,,,
+Qwen3,1.7000,Qwen3 1.7B,luar_cos_source,train_examples_max,1,,,,,,
+Qwen3,14.0000,Qwen3 14B,luar_cos_source,train_examples_max,13,0.7483,0.3063,0.9318,0.0033,0.0076,0.6255
+Qwen3,4.0000,Qwen3 4B,luar_cos_source,train_examples_max,13,0.8116,0.4164,0.9828,0.0008,0.0047,0.5664
+Qwen3,8.0000,Qwen3 8B,luar_cos_source,train_examples_max,13,0.7703,0.3165,0.9744,0.0021,0.0064,0.6579
+Qwen3,,Qwen3 pooled over sizes,luar_cos_source,train_examples_max,13,0.7785,0.3258,0.9758,0.0017,0.0060,0.6500
+Ministral3,14.0000,Ministral3 14B,luar_cos_source,words_total,3,,,,,,
+Ministral3,3.0000,Ministral3 3B,luar_cos_source,words_total,3,,,,,,
+Ministral3,8.0000,Ministral3 8B,luar_cos_source,words_total,3,,,,,,
+Qwen3,1.7000,Qwen3 1.7B,luar_cos_source,words_total,1,,,,,,
+Qwen3,14.0000,Qwen3 14B,luar_cos_source,words_total,13,0.7802,0.3628,0.9775,0.0017,0.0060,0.6147
+Qwen3,4.0000,Qwen3 4B,luar_cos_source,words_total,14,0.7890,0.4067,0.9327,0.0008,0.0047,0.5261
+Qwen3,8.0000,Qwen3 8B,luar_cos_source,words_total,13,0.7912,0.3910,0.9438,0.0013,0.0059,0.5528
+Qwen3,,Qwen3 pooled over sizes,luar_cos_source,words_total,14,0.8022,0.4330,0.9580,0.0006,0.0040,0.5251
+Ministral3,14.0000,Ministral3 14B,otd_js,n_works_train,3,,,,,,
+Ministral3,3.0000,Ministral3 3B,otd_js,n_works_train,3,,,,,,
+Ministral3,8.0000,Ministral3 8B,otd_js,n_works_train,3,,,,,,
+Qwen3,1.7000,Qwen3 1.7B,otd_js,n_works_train,1,,,,,,
+Qwen3,14.0000,Qwen3 14B,otd_js,n_works_train,13,0.3857,-0.3479,0.7406,0.1931,0.2439,1.0885
+Qwen3,4.0000,Qwen3 4B,otd_js,n_works_train,14,0.4251,-0.2025,0.7515,0.1297,0.1713,0.9540
+Qwen3,8.0000,Qwen3 8B,otd_js,n_works_train,13,0.3857,-0.3166,0.7420,0.1931,0.2439,1.0586
+Qwen3,,Qwen3 pooled over sizes,otd_js,n_works_train,14,0.4626,-0.1902,0.7656,0.0958,0.1290,0.9559
+Ministral3,14.0000,Ministral3 14B,otd_js,train_briefs_passed,3,,,,,,
+Ministral3,3.0000,Ministral3 3B,otd_js,train_briefs_passed,3,,,,,,
+Ministral3,8.0000,Ministral3 8B,otd_js,train_briefs_passed,3,,,,,,
+Qwen3,1.7000,Qwen3 1.7B,otd_js,train_briefs_passed,1,,,,,,
+Qwen3,14.0000,Qwen3 14B,otd_js,train_briefs_passed,13,0.7565,0.2045,0.9816,0.0028,0.0070,0.7770
+Qwen3,4.0000,Qwen3 4B,otd_js,train_briefs_passed,14,0.7525,0.1696,0.9732,0.0019,0.0064,0.8036
+Qwen3,8.0000,Qwen3 8B,otd_js,train_briefs_passed,13,0.7785,0.2646,0.9831,0.0017,0.0060,0.7184
+Qwen3,,Qwen3 pooled over sizes,otd_js,train_briefs_passed,14,0.7217,0.1235,0.9697,0.0036,0.0079,0.8462
+Ministral3,14.0000,Ministral3 14B,otd_js,train_examples_max,3,,,,,,
+Ministral3,3.0000,Ministral3 3B,otd_js,train_examples_max,3,,,,,,
+Ministral3,8.0000,Ministral3 8B,otd_js,train_examples_max,3,,,,,,
+Qwen3,1.7000,Qwen3 1.7B,otd_js,train_examples_max,1,,,,,,
+Qwen3,14.0000,Qwen3 14B,otd_js,train_examples_max,13,0.7730,0.2137,0.9829,0.0019,0.0064,0.7692
+Qwen3,4.0000,Qwen3 4B,otd_js,train_examples_max,13,0.7950,0.2659,1.0000,0.0012,0.0058,0.7341
+Qwen3,8.0000,Qwen3 8B,otd_js,train_examples_max,13,0.7950,0.2696,0.9986,0.0012,0.0058,0.7290
+Qwen3,,Qwen3 pooled over sizes,otd_js,train_examples_max,13,0.7758,0.2348,0.9902,0.0018,0.0063,0.7555
+Ministral3,14.0000,Ministral3 14B,otd_js,words_total,3,,,,,,
+Ministral3,3.0000,Ministral3 3B,otd_js,words_total,3,,,,,,
+Ministral3,8.0000,Ministral3 8B,otd_js,words_total,3,,,,,,
+Qwen3,1.7000,Qwen3 1.7B,otd_js,words_total,1,,,,,,
+Qwen3,14.0000,Qwen3 14B,otd_js,words_total,13,0.6538,0.0364,0.9440,0.0153,0.0254,0.9076
+Qwen3,4.0000,Qwen3 4B,otd_js,words_total,14,0.7011,0.1963,0.9461,0.0052,0.0106,0.7498
+Qwen3,8.0000,Qwen3 8B,otd_js,words_total,13,0.6758,0.0782,0.9499,0.0112,0.0197,0.8717
+Qwen3,,Qwen3 pooled over sizes,otd_js,words_total,14,0.6220,0.0022,0.9321,0.0176,0.0287,0.9299
+Ministral3,14.0000,Ministral3 14B,per,n_works_train,3,,,,,,
+Ministral3,3.0000,Ministral3 3B,per,n_works_train,3,,,,,,
+Ministral3,8.0000,Ministral3 8B,per,n_works_train,3,,,,,,
+Qwen3,1.7000,Qwen3 1.7B,per,n_works_train,1,,,,,,
+Qwen3,14.0000,Qwen3 14B,per,n_works_train,13,0.0771,-0.5796,0.6429,0.8022,0.8251,1.2225
+Qwen3,4.0000,Qwen3 4B,per,n_works_train,14,-0.0022,-0.5017,0.5218,0.9940,0.9940,1.0235
+Qwen3,8.0000,Qwen3 8B,per,n_works_train,13,0.0854,-0.5682,0.5993,0.7815,0.8155,1.1675
+Qwen3,,Qwen3 pooled over sizes,per,n_works_train,14,0.1366,-0.4943,0.6191,0.6416,0.6946,1.1135
+Ministral3,14.0000,Ministral3 14B,per,train_briefs_passed,3,,,,,,
+Ministral3,3.0000,Ministral3 3B,per,train_briefs_passed,3,,,,,,
+Ministral3,8.0000,Ministral3 8B,per,train_briefs_passed,3,,,,,,
+Qwen3,1.7000,Qwen3 1.7B,per,train_briefs_passed,1,,,,,,
+Qwen3,14.0000,Qwen3 14B,per,train_briefs_passed,13,0.8088,0.3704,0.9643,0.0008,0.0047,0.5938
+Qwen3,4.0000,Qwen3 4B,per,train_briefs_passed,14,0.7437,0.2036,0.9420,0.0023,0.0067,0.7384
+Qwen3,8.0000,Qwen3 8B,per,train_briefs_passed,13,0.7510,0.1932,0.9324,0.0031,0.0074,0.7392
+Qwen3,,Qwen3 pooled over sizes,per,train_briefs_passed,14,0.7679,0.1810,0.9552,0.0013,0.0059,0.7742
+Ministral3,14.0000,Ministral3 14B,per,train_examples_max,3,,,,,,
+Ministral3,3.0000,Ministral3 3B,per,train_examples_max,3,,,,,,
+Ministral3,8.0000,Ministral3 8B,per,train_examples_max,3,,,,,,
+Qwen3,1.7000,Qwen3 1.7B,per,train_examples_max,1,,,,,,
+Qwen3,14.0000,Qwen3 14B,per,train_examples_max,13,0.8061,0.3880,0.9611,0.0009,0.0049,0.5731
+Qwen3,4.0000,Qwen3 4B,per,train_examples_max,13,0.7840,0.2939,0.9536,0.0015,0.0059,0.6597
+Qwen3,8.0000,Qwen3 8B,per,train_examples_max,13,0.7593,0.2808,0.9422,0.0026,0.0070,0.6614
+Qwen3,,Qwen3 pooled over sizes,per,train_examples_max,13,0.7950,0.2698,0.9558,0.0012,0.0058,0.6860
+Ministral3,14.0000,Ministral3 14B,per,words_total,3,,,,,,
+Ministral3,3.0000,Ministral3 3B,per,words_total,3,,,,,,
+Ministral3,8.0000,Ministral3 8B,per,words_total,3,,,,,,
+Qwen3,1.7000,Qwen3 1.7B,per,words_total,1,,,,,,
+Qwen3,14.0000,Qwen3 14B,per,words_total,13,0.7582,0.2333,0.9721,0.0027,0.0070,0.7388
+Qwen3,4.0000,Qwen3 4B,per,words_total,14,0.7363,0.2686,0.9508,0.0027,0.0070,0.6822
+Qwen3,8.0000,Qwen3 8B,per,words_total,13,0.7198,0.1538,0.9828,0.0055,0.0111,0.8290
+Qwen3,,Qwen3 pooled over sizes,per,words_total,14,0.6615,0.0446,0.9371,0.0100,0.0182,0.8925
+Ministral3,14.0000,Ministral3 14B,styledist_cos_source,n_works_train,3,,,,,,
+Ministral3,3.0000,Ministral3 3B,styledist_cos_source,n_works_train,3,,,,,,
+Ministral3,8.0000,Ministral3 8B,styledist_cos_source,n_works_train,3,,,,,,
+Qwen3,1.7000,Qwen3 1.7B,styledist_cos_source,n_works_train,1,,,,,,
+Qwen3,14.0000,Qwen3 14B,styledist_cos_source,n_works_train,13,-0.2948,-0.8052,0.5056,0.3282,0.3906,1.3108
+Qwen3,4.0000,Qwen3 4B,styledist_cos_source,n_works_train,14,-0.2555,-0.7183,0.4115,0.3780,0.4425,1.1298
+Qwen3,8.0000,Qwen3 8B,styledist_cos_source,n_works_train,13,-0.3388,-0.7877,0.3352,0.2574,0.3212,1.1230
+Qwen3,,Qwen3 pooled over sizes,styledist_cos_source,n_works_train,14,-0.2511,-0.7150,0.3704,0.3865,0.4489,1.0855
+Ministral3,14.0000,Ministral3 14B,styledist_cos_source,train_briefs_passed,3,,,,,,
+Ministral3,3.0000,Ministral3 3B,styledist_cos_source,train_briefs_passed,3,,,,,,
+Ministral3,8.0000,Ministral3 8B,styledist_cos_source,train_briefs_passed,3,,,,,,
+Qwen3,1.7000,Qwen3 1.7B,styledist_cos_source,train_briefs_passed,1,,,,,,
+Qwen3,14.0000,Qwen3 14B,styledist_cos_source,train_briefs_passed,13,0.8473,0.4575,0.9663,0.0003,0.0031,0.5088
+Qwen3,4.0000,Qwen3 4B,styledist_cos_source,train_briefs_passed,14,0.8031,0.3648,0.9519,0.0005,0.0040,0.5870
+Qwen3,8.0000,Qwen3 8B,styledist_cos_source,train_briefs_passed,13,0.8253,0.4477,0.9558,0.0005,0.0040,0.5081
+Qwen3,,Qwen3 pooled over sizes,styledist_cos_source,train_briefs_passed,14,0.8119,0.4355,0.9598,0.0004,0.0039,0.5243
+Ministral3,14.0000,Ministral3 14B,styledist_cos_source,train_examples_max,3,,,,,,
+Ministral3,3.0000,Ministral3 3B,styledist_cos_source,train_examples_max,3,,,,,,
+Ministral3,8.0000,Ministral3 8B,styledist_cos_source,train_examples_max,3,,,,,,
+Qwen3,1.7000,Qwen3 1.7B,styledist_cos_source,train_examples_max,1,,,,,,
+Qwen3,14.0000,Qwen3 14B,styledist_cos_source,train_examples_max,13,0.7400,0.2476,0.9483,0.0038,0.0083,0.7007
+Qwen3,4.0000,Qwen3 4B,styledist_cos_source,train_examples_max,13,0.7235,0.2159,0.9326,0.0052,0.0106,0.7166
+Qwen3,8.0000,Qwen3 8B,styledist_cos_source,train_examples_max,13,0.7180,0.2381,0.9259,0.0057,0.0111,0.6878
+Qwen3,,Qwen3 pooled over sizes,styledist_cos_source,train_examples_max,13,0.7235,0.1900,0.9387,0.0052,0.0106,0.7487
+Ministral3,14.0000,Ministral3 14B,styledist_cos_source,words_total,3,,,,,,
+Ministral3,3.0000,Ministral3 3B,styledist_cos_source,words_total,3,,,,,,
+Ministral3,8.0000,Ministral3 8B,styledist_cos_source,words_total,3,,,,,,
+Qwen3,1.7000,Qwen3 1.7B,styledist_cos_source,words_total,1,,,,,,
+Qwen3,14.0000,Qwen3 14B,styledist_cos_source,words_total,13,0.9066,0.6500,0.9776,0.0000,0.0020,0.3276
+Qwen3,4.0000,Qwen3 4B,styledist_cos_source,words_total,14,0.8593,0.5167,0.9725,0.0001,0.0020,0.4558
+Qwen3,8.0000,Qwen3 8B,styledist_cos_source,words_total,13,0.8791,0.5475,0.9828,0.0001,0.0020,0.4353
+Qwen3,,Qwen3 pooled over sizes,styledist_cos_source,words_total,14,0.8549,0.4876,0.9596,0.0001,0.0020,0.4720
+Ministral3,14.0000,Ministral3 14B,truncated,n_works_train,3,,,,,,
+Ministral3,3.0000,Ministral3 3B,truncated,n_works_train,3,,,,,,
+Ministral3,8.0000,Ministral3 8B,truncated,n_works_train,3,,,,,,
+Qwen3,1.7000,Qwen3 1.7B,truncated,n_works_train,1,,,,,,
+Qwen3,14.0000,Qwen3 14B,truncated,n_works_train,13,0.1983,-0.4041,0.6409,0.5160,0.5767,1.0450
+Qwen3,4.0000,Qwen3 4B,truncated,n_works_train,14,0.1256,-0.4133,0.5343,0.6689,0.7188,0.9476
+Qwen3,8.0000,Qwen3 8B,truncated,n_works_train,13,0.1763,-0.3834,0.6802,0.5645,0.6236,1.0636
+Qwen3,,Qwen3 pooled over sizes,truncated,n_works_train,14,0.3238,-0.2591,0.6951,0.2588,0.3212,0.9542
+Ministral3,14.0000,Ministral3 14B,truncated,train_briefs_passed,3,,,,,,
+Ministral3,3.0000,Ministral3 3B,truncated,train_briefs_passed,3,,,,,,
+Ministral3,8.0000,Ministral3 8B,truncated,train_briefs_passed,3,,,,,,
+Qwen3,1.7000,Qwen3 1.7B,truncated,train_briefs_passed,1,,,,,,
+Qwen3,14.0000,Qwen3 14B,truncated,train_briefs_passed,13,0.8693,0.4961,0.9902,0.0001,0.0020,0.4941
+Qwen3,4.0000,Qwen3 4B,truncated,train_briefs_passed,14,0.6029,0.1196,0.8818,0.0225,0.0352,0.7623
+Qwen3,8.0000,Qwen3 8B,truncated,train_briefs_passed,13,0.5887,-0.0175,0.8588,0.0343,0.0508,0.8763
+Qwen3,,Qwen3 pooled over sizes,truncated,train_briefs_passed,14,0.8009,0.3839,0.9787,0.0006,0.0040,0.5948
+Ministral3,14.0000,Ministral3 14B,truncated,train_examples_max,3,,,,,,
+Ministral3,3.0000,Ministral3 3B,truncated,train_examples_max,3,,,,,,
+Ministral3,8.0000,Ministral3 8B,truncated,train_examples_max,3,,,,,,
+Qwen3,1.7000,Qwen3 1.7B,truncated,train_examples_max,1,,,,,,
+Qwen3,14.0000,Qwen3 14B,truncated,train_examples_max,13,0.8473,0.4286,0.9831,0.0003,0.0031,0.5545
+Qwen3,4.0000,Qwen3 4B,truncated,train_examples_max,13,0.5887,0.0309,0.9071,0.0343,0.0508,0.8762
+Qwen3,8.0000,Qwen3 8B,truncated,train_examples_max,13,0.6080,0.0449,0.8510,0.0275,0.0417,0.8061
+Qwen3,,Qwen3 pooled over sizes,truncated,train_examples_max,13,0.8281,0.4161,0.9789,0.0005,0.0040,0.5628
+Ministral3,14.0000,Ministral3 14B,truncated,words_total,3,,,,,,
+Ministral3,3.0000,Ministral3 3B,truncated,words_total,3,,,,,,
+Ministral3,8.0000,Ministral3 8B,truncated,words_total,3,,,,,,
+Qwen3,1.7000,Qwen3 1.7B,truncated,words_total,1,,,,,,
+Qwen3,14.0000,Qwen3 14B,truncated,words_total,13,0.7802,0.2549,0.9661,0.0017,0.0060,0.7112
+Qwen3,4.0000,Qwen3 4B,truncated,words_total,14,0.4198,-0.1940,0.8113,0.1351,0.1769,1.0053
+Qwen3,8.0000,Qwen3 8B,truncated,words_total,13,0.5879,-0.1149,0.8830,0.0346,0.0508,0.9979
+Qwen3,,Qwen3 pooled over sizes,truncated,words_total,14,0.6396,-0.0157,0.9397,0.0138,0.0231,0.9554
+Ministral3,14.0000,Ministral3 14B,wegmann_cos_source,n_works_train,3,,,,,,
+Ministral3,3.0000,Ministral3 3B,wegmann_cos_source,n_works_train,3,,,,,,
+Ministral3,8.0000,Ministral3 8B,wegmann_cos_source,n_works_train,3,,,,,,
+Qwen3,1.7000,Qwen3 1.7B,wegmann_cos_source,n_works_train,1,,,,,,
+Qwen3,14.0000,Qwen3 14B,wegmann_cos_source,n_works_train,13,-0.3141,-0.8305,0.3567,0.2960,0.3552,1.1873
+Qwen3,4.0000,Qwen3 4B,wegmann_cos_source,n_works_train,14,-0.0485,-0.6271,0.5112,0.8693,0.8878,1.1383
+Qwen3,8.0000,Qwen3 8B,wegmann_cos_source,n_works_train,13,-0.4160,-0.7977,0.2701,0.1574,0.2024,1.0678
+Qwen3,,Qwen3 pooled over sizes,wegmann_cos_source,n_works_train,14,-0.3040,-0.7828,0.3303,0.2907,0.3518,1.1131
+Ministral3,14.0000,Ministral3 14B,wegmann_cos_source,train_briefs_passed,3,,,,,,
+Ministral3,3.0000,Ministral3 3B,wegmann_cos_source,train_briefs_passed,3,,,,,,
+Ministral3,8.0000,Ministral3 8B,wegmann_cos_source,train_briefs_passed,3,,,,,,
+Qwen3,1.7000,Qwen3 1.7B,wegmann_cos_source,train_briefs_passed,1,,,,,,
+Qwen3,14.0000,Qwen3 14B,wegmann_cos_source,train_briefs_passed,13,0.6713,0.1752,0.9089,0.0120,0.0206,0.7337
+Qwen3,4.0000,Qwen3 4B,wegmann_cos_source,train_briefs_passed,14,0.7239,0.2617,0.9362,0.0034,0.0078,0.6745
+Qwen3,8.0000,Qwen3 8B,wegmann_cos_source,train_briefs_passed,13,0.6823,0.1897,0.9220,0.0102,0.0184,0.7323
+Qwen3,,Qwen3 pooled over sizes,wegmann_cos_source,train_briefs_passed,14,0.6953,0.2187,0.9198,0.0058,0.0111,0.7011
+Ministral3,14.0000,Ministral3 14B,wegmann_cos_source,train_examples_max,3,,,,,,
+Ministral3,3.0000,Ministral3 3B,wegmann_cos_source,train_examples_max,3,,,,,,
+Ministral3,8.0000,Ministral3 8B,wegmann_cos_source,train_examples_max,3,,,,,,
+Qwen3,1.7000,Qwen3 1.7B,wegmann_cos_source,train_examples_max,1,,,,,,
+Qwen3,14.0000,Qwen3 14B,wegmann_cos_source,train_examples_max,13,0.5337,-0.0280,0.8921,0.0603,0.0843,0.9201
+Qwen3,4.0000,Qwen3 4B,wegmann_cos_source,train_examples_max,13,0.7840,0.3742,0.9667,0.0015,0.0059,0.5925
+Qwen3,8.0000,Qwen3 8B,wegmann_cos_source,train_examples_max,13,0.5612,-0.0580,0.8621,0.0460,0.0649,0.9201
+Qwen3,,Qwen3 pooled over sizes,wegmann_cos_source,train_examples_max,13,0.6245,0.0753,0.9223,0.0225,0.0352,0.8471
+Ministral3,14.0000,Ministral3 14B,wegmann_cos_source,words_total,3,,,,,,
+Ministral3,3.0000,Ministral3 3B,wegmann_cos_source,words_total,3,,,,,,
+Ministral3,8.0000,Ministral3 8B,wegmann_cos_source,words_total,3,,,,,,
+Qwen3,1.7000,Qwen3 1.7B,wegmann_cos_source,words_total,1,,,,,,
+Qwen3,14.0000,Qwen3 14B,wegmann_cos_source,words_total,13,0.7143,0.1875,0.8992,0.0061,0.0115,0.7117
+Qwen3,4.0000,Qwen3 4B,wegmann_cos_source,words_total,14,0.8374,0.4966,0.9596,0.0002,0.0027,0.4629
+Qwen3,8.0000,Qwen3 8B,wegmann_cos_source,words_total,13,0.7582,0.2722,0.9496,0.0027,0.0070,0.6774
+Qwen3,,Qwen3 pooled over sizes,wegmann_cos_source,words_total,14,0.8110,0.4120,0.9554,0.0004,0.0039,0.5434
+Ministral3,14.0000,Ministral3 14B,words,n_works_train,0,,,,,,
+Ministral3,3.0000,Ministral3 3B,words,n_works_train,0,,,,,,
+Ministral3,8.0000,Ministral3 8B,words,n_works_train,0,,,,,,
+Qwen3,1.7000,Qwen3 1.7B,words,n_works_train,0,,,,,,
+Qwen3,14.0000,Qwen3 14B,words,n_works_train,0,,,,,,
+Qwen3,4.0000,Qwen3 4B,words,n_works_train,0,,,,,,
+Qwen3,8.0000,Qwen3 8B,words,n_works_train,0,,,,,,
+Qwen3,,Qwen3 pooled over sizes,words,n_works_train,0,,,,,,
+Ministral3,14.0000,Ministral3 14B,words,train_briefs_passed,0,,,,,,
+Ministral3,3.0000,Ministral3 3B,words,train_briefs_passed,0,,,,,,
+Ministral3,8.0000,Ministral3 8B,words,train_briefs_passed,0,,,,,,
+Qwen3,1.7000,Qwen3 1.7B,words,train_briefs_passed,0,,,,,,
+Qwen3,14.0000,Qwen3 14B,words,train_briefs_passed,0,,,,,,
+Qwen3,4.0000,Qwen3 4B,words,train_briefs_passed,0,,,,,,
+Qwen3,8.0000,Qwen3 8B,words,train_briefs_passed,0,,,,,,
+Qwen3,,Qwen3 pooled over sizes,words,train_briefs_passed,0,,,,,,
+Ministral3,14.0000,Ministral3 14B,words,train_examples_max,0,,,,,,
+Ministral3,3.0000,Ministral3 3B,words,train_examples_max,0,,,,,,
+Ministral3,8.0000,Ministral3 8B,words,train_examples_max,0,,,,,,
+Qwen3,1.7000,Qwen3 1.7B,words,train_examples_max,0,,,,,,
+Qwen3,14.0000,Qwen3 14B,words,train_examples_max,0,,,,,,
+Qwen3,4.0000,Qwen3 4B,words,train_examples_max,0,,,,,,
+Qwen3,8.0000,Qwen3 8B,words,train_examples_max,0,,,,,,
+Qwen3,,Qwen3 pooled over sizes,words,train_examples_max,0,,,,,,
+Ministral3,14.0000,Ministral3 14B,words,words_total,0,,,,,,
+Ministral3,3.0000,Ministral3 3B,words,words_total,0,,,,,,
+Ministral3,8.0000,Ministral3 8B,words,words_total,0,,,,,,
+Qwen3,1.7000,Qwen3 1.7B,words,words_total,0,,,,,,
+Qwen3,14.0000,Qwen3 14B,words,words_total,0,,,,,,
+Qwen3,4.0000,Qwen3 4B,words,words_total,0,,,,,,
+Qwen3,8.0000,Qwen3 8B,words,words_total,0,,,,,,
+Qwen3,,Qwen3 pooled over sizes,words,words_total,0,,,,,,

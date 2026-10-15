@@ -1,0 +1,16 @@
+embedding,pair,family,n,abs_mean_diff
+luar,base4b vs base4b_r2,Qwen3,88,0.00774
+luar,chesterton_base4b vs chesterton_base4bc,Qwen3,78,0.02203
+luar,mansfield_base4b vs mansfield_base4b_r2,Qwen3,82,0.01813
+luar,chesterton_basem3b vs chesterton_basem3b_r2,Ministral3,78,0.00133
+luar,patrick_v2_basem3b vs patrick_v2_basem3b_r2,Ministral3,90,0.00126
+wegmann,base4b vs base4b_r2,Qwen3,88,0.00272
+wegmann,chesterton_base4b vs chesterton_base4bc,Qwen3,78,0.00466
+wegmann,mansfield_base4b vs mansfield_base4b_r2,Qwen3,82,0.04244
+wegmann,chesterton_basem3b vs chesterton_basem3b_r2,Ministral3,78,0.00609
+wegmann,patrick_v2_basem3b vs patrick_v2_basem3b_r2,Ministral3,90,0.00404
+styledist,base4b vs base4b_r2,Qwen3,88,0.00085
+styledist,chesterton_base4b vs chesterton_base4bc,Qwen3,78,0.00640
+styledist,mansfield_base4b vs mansfield_base4b_r2,Qwen3,82,0.00376
+styledist,chesterton_basem3b vs chesterton_basem3b_r2,Ministral3,78,0.00122
+styledist,patrick_v2_basem3b vs patrick_v2_basem3b_r2,Ministral3,90,0.00061

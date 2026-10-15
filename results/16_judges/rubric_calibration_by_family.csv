@@ -1,0 +1,4 @@
+family,n_author_x_judge_cells,n_authors,gate_passes,shuffle_separation_passes,author_above_gen,min_gap_C2,min_gap_C5,mean_author_minus_gen,min_author_minus_gen,n_author_below_gen
+Ministral3,6,3,4,5,4,2.3889,2.0278,1.7217,-0.2443,2
+Qwen3,16,8,15,15,16,2.3889,2.0278,3.2171,0.6152,0
+both families,16,8,15,15,16,2.3889,2.0278,3.2633,0.5447,0
